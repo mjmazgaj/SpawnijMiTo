@@ -12,6 +12,14 @@ const About = () => {
 
       <div className="container about__container">
         <div className="about__me">
+          <div className="about__me-description">
+            <FiUsers className="about__icon" />
+            <h5>Projekty</h5>
+            <small>niepowtarzalne</small>
+            <small>loft</small>
+            <small>industrial</small>
+            <small>stoliki Hi-fi</small>
+          </div>
           <div className="about__me-image">
             <img src={ME} alt="About Image" />
           </div>
@@ -25,6 +33,13 @@ const About = () => {
               <small>Cała Polska</small>
             </article>
             <article className="about__card">
+              <FiUsers className="about__icon" />
+              <h5>Zamówienia</h5>
+              <small>produkt rzemieślniczy</small>
+              <small>wycena inwidualna</small>
+              <small>wysoki standard</small>
+            </article>
+            <article className="about__card about__card-description">
               <FiUsers className="about__icon" />
               <h5>Projekty</h5>
               <small>loft</small>
