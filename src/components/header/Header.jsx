@@ -1,17 +1,18 @@
 import "./header.css";
 import CTA from "./CTA";
-import ME from "../../assets/me.png";
 import HeaderSocial from "./HeaderSocials";
 
 const Header = () => {
   return (
     <header>
+      <CTA />
+      
       <div className="container header__container">
-        <h5>Hello</h5>
-        <h1>Name Name</h1>
-        <h5 className="text-light">Developer</h5>
-        <CTA />
-
+        <div className="header__logo">
+          <h1 className="header__logo-first-line">SPAWNIJ</h1>
+          <h1 className="header__logo-second-line">MiTo</h1>
+        </div>
+        <h5 className="text-light">Producent mebli loftowych</h5>
       </div>
 
       <HeaderSocial />

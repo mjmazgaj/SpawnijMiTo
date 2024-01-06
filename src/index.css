@@ -120,21 +120,21 @@ img {
 }
 
 @media screen and (max-width: 1024px) {
-    .container{
-        width: var(--container-width-medium);
-    }
+  .container {
+    width: var(--container-width-medium);
+  }
 
-    section {
-        margin-top: 6rem;
-    }
+  section {
+    margin-top: 6rem;
+  }
 }
 
 @media screen and (max-width: 600px) {
-    .container{
-        width: var(--container-width-small);
-    }
+  .container {
+    width: var(--container-width-small);
+  }
 
-    section > h2{
-        margin-bottom: 2rem;
-    }
+  section > h2 {
+    margin-bottom: 2rem;
+  }
 }

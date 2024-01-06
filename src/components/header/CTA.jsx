@@ -3,7 +3,8 @@ import "./header.css"
 const CTA = () => {
   return (
     <div className="cta">
-        <a href="#contact" className="btn btn-primary">Let's talk</a>
+        <a href="#portfolio" className="btn">Realizacje</a>
+        <a href="#contact" className="btn btn-primary">Kontakt</a>
     </div>
   )
 }
