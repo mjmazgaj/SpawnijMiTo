@@ -1,104 +1,42 @@
-import "./services.css"
-import {BiCheck} from "react-icons/bi"
+import "./services.css";
+import { BsPatchCheckFill } from "react-icons/bs";
 
-const Services = () => {
+const Experience = () => {
   return (
     <section id="services">
-      <h5>What I Offer</h5>
-      <h2>Services</h2>
+      <h5>Poznaj</h5>
+      <h2>Nasze produkty</h2>
 
-      <div className="container services__container">
-        <article className="service">
-          <div className="service__head">
-            <h3>UI/UX Design</h3>
+      <div className="container experience__container">
+        <div className="experiance__item">
+          <h3>Stoliki Hi-Fi</h3>
+          <div className="experience__content">
+            <div className="experience__details">
+              <BsPatchCheckFill className="experience__details-icon" />
+              <div>
+                <h4>Projekt</h4>
+                <small className="text-light">Realizyjemy indywiduwalne projekty na oczekiwany przez klienta wymiar</small>
+              </div>
+            </div>
+            <div className="experience__details">
+              <BsPatchCheckFill className="experience__details-icon" />
+              <div>
+                <h4>Blaty</h4>
+                <small className="text-light">Wykonywane z naturalnego drewna</small>
+              </div>
+            </div>
+            <div className="experience__details">
+              <BsPatchCheckFill className="experience__details-icon" />
+              <div>
+                <h4>Konstrukcja</h4>
+                <small className="text-light">Profile malowane proszkowo</small>
+              </div>
+            </div>
           </div>
-
-          <ul className="service__list">
-            <li>
-              <BiCheck className="service__list-icon"/>
-              <p>Lorem ipsum dolor sit amet.</p>
-            </li>
-            <li>
-              <BiCheck className="service__list-icon"/>
-              <p>Lorem ipsum dolor sit amet.</p>
-            </li>
-            <li>
-              <BiCheck className="service__list-icon"/>
-              <p>Lorem ipsum dolor sit amet.</p>
-            </li>
-            <li>
-              <BiCheck className="service__list-icon"/>
-              <p>Lorem ipsum dolor sit amet.</p>
-            </li>
-            <li>
-              <BiCheck className="service__list-icon"/>
-              <p>Lorem ipsum dolor sit amet.</p>
-            </li>
-          </ul>
-        </article>
-        <article className="service">
-          <div className="service__head">
-            <h3>Web Development</h3>
-          </div>
-
-          <ul className="service__list">
-            <li>
-              <BiCheck className="service__list-icon"/>
-              <p>Lorem ipsum dolor sit amet.</p>
-            </li>
-            <li>
-              <BiCheck className="service__list-icon"/>
-              <p>Lorem ipsum dolor sit amet.</p>
-            </li>
-            <li>
-              <BiCheck className="service__list-icon"/>
-              <p>Lorem ipsum dolor sit amet.</p>
-            </li>
-            <li>
-              <BiCheck className="service__list-icon"/>
-              <p>Lorem ipsum dolor sit amet.</p>
-            </li>
-            <li>
-              <BiCheck className="service__list-icon"/>
-              <p>Lorem ipsum dolor sit amet.</p>
-            </li>
-            <li>
-              <BiCheck className="service__list-icon"/>
-              <p>Lorem ipsum dolor sit amet.</p>
-            </li>
-          </ul>
-        </article>
-        <article className="service">
-          <div className="service__head">
-            <h3>Content Creation</h3>
-          </div>
-
-          <ul className="service__list">
-            <li>
-              <BiCheck className="service__list-icon"/>
-              <p>Lorem ipsum dolor sit amet.</p>
-            </li>
-            <li>
-              <BiCheck className="service__list-icon"/>
-              <p>Lorem ipsum dolor sit amet.</p>
-            </li>
-            <li>
-              <BiCheck className="service__list-icon"/>
-              <p>Lorem ipsum dolor sit amet.</p>
-            </li>
-            <li>
-              <BiCheck className="service__list-icon"/>
-              <p>Lorem ipsum dolor sit amet.</p>
-            </li>
-            <li>
-              <BiCheck className="service__list-icon"/>
-              <p>Lorem ipsum dolor sit amet.</p>
-            </li>
-          </ul>
-        </article>
+        </div>
       </div>
     </section>
-  )
-}
+  );
+};
 
-export default Services
+export default Experience;
