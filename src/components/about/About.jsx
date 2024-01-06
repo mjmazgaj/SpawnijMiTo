@@ -1,5 +1,5 @@
 import "./about.css";
-import ME from "../../assets/me-about.jpg";
+import ME from "../../assets/about.jpg";
 import { FaAward } from "react-icons/fa";
 import { FiUsers } from "react-icons/fi";
 import { VscFolderLibrary } from "react-icons/vsc";
@@ -7,8 +7,8 @@ import { VscFolderLibrary } from "react-icons/vsc";
 const About = () => {
   return (
     <section id="about">
-      <h5>Get To Know</h5>
-      <h2>About Me</h2>
+      <h5>Dowiedz się więcej o</h5>
+      <h2>SpawnijMiTo</h2>
 
       <div className="container about__container">
         <div className="about__me">
@@ -21,29 +21,25 @@ const About = () => {
           <div className="about__cards">
             <article className="about__card">
               <FaAward className="about__icon" />
-              <h5>Experience</h5>
-              <small>3+ Years Working</small>
+              <h5>Obszar działania</h5>
+              <small>Cała Polska</small>
             </article>
             <article className="about__card">
               <FiUsers className="about__icon" />
-              <h5>Clients</h5>
-              <small>200+ Worldwide</small>
-            </article>
-            <article className="about__card">
-              <VscFolderLibrary className="about__icon" />
-              <h5>Projects</h5>
-              <small>80+ Complited</small>
+              <h5>Projekty</h5>
+              <small>loft</small>
+              <small>industrial</small>
+              <small>stoliki Hi-fi</small>
             </article>
           </div>
 
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto, nisi
-            nostrum? Numquam unde recusandae accusamus cupiditate architecto
-            provident quae consequuntur delectus reiciendis tempora! Quas
-            perferendis ducimus aut consectetur, quasi architecto!
+            Jesteśmy polskim prodycentem mebli typu Loft, industrialnych oraz
+            stolików typu Hi-fi.
           </p>
+          <p>Wymyśl swoją konstrukcje, a my zajmiemy się resztą!</p>
           <a href="#contact" className="btn btn-primary">
-            Let's talk
+            Napisz do nas
           </a>
         </div>
       </div>
