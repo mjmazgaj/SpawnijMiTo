@@ -49,7 +49,7 @@ const About = () => {
           </div>
 
           <p>
-            Jesteśmy polskim prodycentem mebli typu Loft, industrialnych oraz
+            Jesteśmy polskim producentem mebli industrialnych, Loft, oraz
             stolików typu Hi-fi.
           </p>
           <p>Wymyśl swoją konstrukcje, a my zajmiemy się resztą!</p>
