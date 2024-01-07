@@ -48,7 +48,7 @@ const Contact = () => {
             <BsWhatsapp className="contact__option-icon" />
             <h4>Telefon</h4>
             <h5>731 854 334</h5>
-            <a href="tel:731854334" target="_blank">
+            <a href="tel:731854334">
               Zadzwoń
             </a>
           </article>
