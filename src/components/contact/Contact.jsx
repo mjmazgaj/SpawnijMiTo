@@ -23,56 +23,54 @@ const Contact = () => {
 
   return (
     <section id="contact">
-      <h5>Get In Touch</h5>
-      <h2>Contact Me</h2>
+      <h5>Zainteresowany?</h5>
+      <h2>Skontaktuj się z nami</h2>
 
       <div className="container contact__container">
         <div className="contact__options">
           <article className="contact__option">
             <MdOutlineEmail className="contact__option-icon" />
             <h4>Email</h4>
-            <h5>email@gmail.com</h5>
-            <a href="mailto:email@gmail.com" target="_blank">
-              Send a message
+            <h5>spawnijmito@gmail.com</h5>
+            <a href="mailto:spawnijmito@gmail.com" target="_blank">
+              Napisz wiadomość
             </a>
           </article>
           <article className="contact__option">
             <RiMessengerLine className="contact__option-icon" />
             <h4>Messagner</h4>
-            <h5>Company Name</h5>
-            <a href="https://m.me" target="_blank">
-              Send a message
+            <h5>SpawnijMiTo</h5>
+            <a href="https://m.me/114186255065733" target="_blank">
+              Napisz wiadomość
             </a>
           </article>
           <article className="contact__option">
             <BsWhatsapp className="contact__option-icon" />
-            <h4>Email</h4>
-            <h5>+123456789</h5>
-            <a
-              href="https://api.whatsapp.com/send?phone=+123456789"
-              target="_blank"
-            >
-              Send a message
+            <h4>Telefon</h4>
+            <h5>731 854 334</h5>
+            <a href="tel:731854334" target="_blank">
+              Zadzwoń
             </a>
           </article>
         </div>
 
+        <h4>Formularz kontaktowy</h4>
         <form ref={form} onSubmit={sendEmail}>
           <input
             type="text"
             name="name"
-            placeholder="Your Full Name"
+            placeholder="Imię i nazwisko"
             required
           />
-          <input type="email" name="email" placeholder="Your Email" required />
+          <input type="tel" name="tel" placeholder="Numer telefonu" required />
           <textarea
             name="message"
             rows="7"
-            placeholder="Your Message"
+            placeholder="Wiadomość"
             required
           ></textarea>
           <button type="submit" className="btn btn-primary">
-            Send Message
+            Wyślij
           </button>
         </form>
       </div>
