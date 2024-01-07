@@ -11,21 +11,32 @@ const Experience = () => {
         <div className="experiance__item">
           <div className="experience__content">
             <div className="experience__details">
-              <BsPatchCheckFill className="experience__details-icon" />
+              <div>
+                <BsPatchCheckFill className="experience__details-icon" />
+              </div>
               <div>
                 <h4>Projekt</h4>
-                <small className="text-light">Realizyjemy indywiduwalne projekty na oczekiwany przez klienta wymiar</small>
+                <small className="text-light">
+                  Realizyjemy indywiduwalne projekty na oczekiwany przez klienta
+                  wymiar
+                </small>
               </div>
             </div>
             <div className="experience__details">
-              <BsPatchCheckFill className="experience__details-icon" />
+              <div>
+                <BsPatchCheckFill className="experience__details-icon" />
+              </div>
               <div>
                 <h4>Blaty</h4>
-                <small className="text-light">Wykonywane z naturalnego drewna</small>
+                <small className="text-light">
+                  Wykonywane z naturalnego drewna
+                </small>
               </div>
             </div>
             <div className="experience__details">
-              <BsPatchCheckFill className="experience__details-icon" />
+              <div>
+                <BsPatchCheckFill className="experience__details-icon" />
+              </div>
               <div>
                 <h4>Konstrukcja</h4>
                 <small className="text-light">Profile malowane proszkowo</small>
