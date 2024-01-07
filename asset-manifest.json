@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/SpawnijMiTo/public/static/css/main.5bf3bfa3.css",
+    "main.js": "/SpawnijMiTo/public/static/js/main.d24cf0ff.js",
+    "static/media/about.jpg": "/SpawnijMiTo/public/static/media/about.9b70385685151d050cd3.jpg",
+    "static/media/portfolio1.jpg": "/SpawnijMiTo/public/static/media/portfolio1.066ec6ca3c1cc2ca452d.jpg",
+    "static/media/portfolio3.jpg": "/SpawnijMiTo/public/static/media/portfolio3.7b46825ed99b6e6f20f2.jpg",
+    "static/media/portfolio2.jpg": "/SpawnijMiTo/public/static/media/portfolio2.7bd9dabcb30be5263ba7.jpg",
+    "static/media/portfolio4.jpg": "/SpawnijMiTo/public/static/media/portfolio4.0dffe6b51069f88dc31b.jpg",
+    "static/media/portfolio5.jpg": "/SpawnijMiTo/public/static/media/portfolio5.30a776d6da66f28a42b8.jpg",
+    "static/media/background.jpg": "/SpawnijMiTo/public/static/media/background.34ab31d6c08273a5bb90.jpg",
+    "index.html": "/SpawnijMiTo/public/index.html",
+    "main.5bf3bfa3.css.map": "/SpawnijMiTo/public/static/css/main.5bf3bfa3.css.map",
+    "main.d24cf0ff.js.map": "/SpawnijMiTo/public/static/js/main.d24cf0ff.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5bf3bfa3.css",
+    "static/js/main.d24cf0ff.js"
+  ]
+}
