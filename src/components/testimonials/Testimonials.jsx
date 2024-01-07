@@ -1,58 +1,55 @@
 import "./testimonials.css";
-import AVTR1 from "../../assets/avatar1.jpg";
-import AVTR2 from "../../assets/avatar2.jpg";
-import AVTR3 from "../../assets/avatar3.jpg";
-import AVTR4 from "../../assets/avatar4.jpg";
+import { RxAvatar } from "react-icons/rx";
 
-import { Pagination, A11y } from 'swiper/modules';
+import { Pagination, A11y } from "swiper/modules";
 
-import { Swiper, SwiperSlide } from 'swiper/react';
+import { Swiper, SwiperSlide } from "swiper/react";
 
-import 'swiper/css';
-import 'swiper/css/pagination';
+import "swiper/css";
+import "swiper/css/pagination";
 
 const data = [
   {
-    avatar: AVTR1,
-    name: "Tina Snow",
-    review: "It is great!",
+    id: 1,
+    review:
+      "Długi czas kombinowałem z różnymi budżetowymi stolikami aż trafiłem na tą firmę. Ja polecam. Kontakt, uzgodnienia projektu, wysyłka.... wszystko na najwyższym poziomie 👍😊Ps. Zamówiłem już drugą.",
   },
   {
-    avatar: AVTR2,
-    name: "Tina Snow",
-    review: "It is great!",
+    id: 2,
+    review:
+      "Konkretna szafka widać przemyślana a wykonanie to mistrzostwo, gratuluję😏",
   },
   {
-    avatar: AVTR3,
-    name: "Tina Snow",
-    review: "It is great!",
-  },
-  {
-    avatar: AVTR4,
-    name: "Tina Snow",
-    review: "It is great!",
+    id: 3,
+    review:
+      "Wykonanie pierwsza klasa, super kontakt, bardzo przystępna cena. Jest to mój pierwszy mebel wykonany przez tą firmę, ale na pewno nie ostatni. Szczerze polecam.",
   }
 ];
 
 const Testimonials = () => {
   return (
     <section id="testimonials">
-      <h5>Review from clients</h5>
-      <h2>Testimonials</h2>
-
-      <Swiper className="container testimonials__container"
-      modules={[Pagination]}
-      spaceBetween={40}
-      slidesPerView={1}
-      pagination={{ clickable: true }}>
-        {data.map(({ avatar, name, review }, index) => {
+      <h5>Co piszą o nas nasi klienci?</h5>
+      <h2>Opinie</h2>
+      <Swiper
+        className="container testimonials__container"
+        modules={[Pagination]}
+        spaceBetween={40}
+        slidesPerView={1}
+        pagination={{ clickable: true }}
+      >
+        {data.map(({ id, review }, index) => {
           return (
             <SwiperSlide key={index} className="testimonial">
-              <div className="client__avatar">
-                <img src={avatar} />
+              <div className="client__review-container">
+                <div>
+                  <RxAvatar className="client__review-icon"/>
+                </div>
+                <div className="client__review-text">
+                  <h4 className="client__review-name">Tajemne Nazwisko</h4>
+                  <p>{review}</p>
+                </div>
               </div>
-              <h5 className="client__name">{name}</h5>
-              <small className="client__review">{review}</small>
             </SwiperSlide>
           );
         })}
