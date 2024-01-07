@@ -12,8 +12,8 @@ const Contact = () => {
     e.preventDefault();
 
     emailjs.sendForm(
-      "service_oijtucd",
-      "template_4hukseo",
+      "service_xxqnnwp",
+      "template_gjyvcdt",
       form.current,
       "iqIYAX7TowFBAgJm3"
     );
@@ -48,31 +48,35 @@ const Contact = () => {
             <BsWhatsapp className="contact__option-icon" />
             <h4>Telefon</h4>
             <h5>731 854 334</h5>
-            <a href="tel:731854334">
-              Zadzwoń
-            </a>
+            <a href="tel:731854334">Zadzwoń</a>
           </article>
         </div>
-
-        <h4>Formularz kontaktowy</h4>
-        <form ref={form} onSubmit={sendEmail}>
-          <input
-            type="text"
-            name="name"
-            placeholder="Imię i nazwisko"
-            required
-          />
-          <input type="tel" name="tel" placeholder="Numer telefonu" required />
-          <textarea
-            name="message"
-            rows="7"
-            placeholder="Wiadomość"
-            required
-          ></textarea>
-          <button type="submit" className="btn btn-primary">
-            Wyślij
-          </button>
-        </form>
+        <div>
+          <h4>Formularz kontaktowy</h4>
+          <form ref={form} onSubmit={sendEmail}>
+            <input
+              type="text"
+              name="name"
+              placeholder="Imię i nazwisko"
+              required
+            />
+            <input
+              type="tel"
+              name="telephone"
+              placeholder="Numer telefonu"
+              required
+            />
+            <textarea
+              name="message"
+              rows="7"
+              placeholder="Wiadomość"
+              required
+            ></textarea>
+            <button type="submit" className="btn btn-primary">
+              Wyślij
+            </button>
+          </form>
+        </div>
       </div>
     </section>
   );
