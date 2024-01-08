@@ -1,4 +1,4 @@
-import "./contact.css";
+import "./contact.min.css";
 import { FaFacebookF } from "react-icons/fa";
 import { MdOutlineEmail } from "react-icons/md";
 import { RiMessengerLine } from "react-icons/ri";

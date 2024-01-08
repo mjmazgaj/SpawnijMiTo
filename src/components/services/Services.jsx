@@ -1,4 +1,4 @@
-import "./services.css";
+import "./services.min.css";
 import { BsPatchCheckFill } from "react-icons/bs";
 
 const Experience = () => {

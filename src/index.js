@@ -1,5 +1,5 @@
 import App from "./App"
-import "./index.css"
+import "./index.min.css"
 import { createRoot } from 'react-dom/client';
 
 const container = document.querySelector("#root");

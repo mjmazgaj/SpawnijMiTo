@@ -1,4 +1,4 @@
-import "./header.css";
+import "./header.min.css";
 import CTA from "./CTA";
 import HeaderSocial from "./HeaderSocials";
 

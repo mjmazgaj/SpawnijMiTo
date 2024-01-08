@@ -1,4 +1,4 @@
-import "./about.css";
+import "./about.min.css";
 import ME from "../../assets/about.jpg";
 import { FaAward } from "react-icons/fa";
 import { FiUsers } from "react-icons/fi";

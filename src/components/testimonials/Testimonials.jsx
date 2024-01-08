@@ -1,4 +1,4 @@
-import "./testimonials.css";
+import "./testimonials.min.css";
 import { RxAvatar } from "react-icons/rx";
 
 import { Pagination, A11y } from "swiper/modules";
