@@ -1,4 +1,5 @@
 import "./contact.css";
+import { FaFacebookF } from "react-icons/fa";
 import { MdOutlineEmail } from "react-icons/md";
 import { RiMessengerLine } from "react-icons/ri";
 import { BsWhatsapp } from "react-icons/bs";
@@ -28,6 +29,14 @@ const Contact = () => {
 
       <div className="container contact__container">
         <div className="contact__options">
+          <article className="contact__option">
+            <FaFacebookF className="contact__option-icon" />
+            <h4>Facebook</h4>
+            <h5>SpawnijMiTo</h5>
+            <a href="https://www.facebook.com/people/Spawnijmito/100094208785511/" target="_blank">
+              Odwiedź nas na Facebooku
+            </a>
+          </article>
           <article className="contact__option">
             <MdOutlineEmail className="contact__option-icon" />
             <h4>Email</h4>

@@ -1,13 +1,12 @@
 .container.contact__container {
-  width: 58%;
   display: grid;
-  grid-template-columns: 30% 58%;
-  gap: 12%;
+  grid-template-columns: 2fr 1.5fr;
+  gap: 2rem;
 }
 
 .contact__options {
-  display: flex;
-  flex-direction: column;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
   gap: 1.2rem;
 }
 
@@ -48,7 +47,6 @@ textarea {
   color: var(--color-white);
 }
 
-
 input::placeholder,
 textarea::placeholder {
   color: var(--color-primary);
@@ -64,5 +62,8 @@ textarea::placeholder {
 @media screen and (max-width: 600px) {
   .container.contact__container {
     width: var(--container-width-small);
+  }
+  .contact__container .contact__options {
+    grid-template-columns: 1fr;
   }
 }
