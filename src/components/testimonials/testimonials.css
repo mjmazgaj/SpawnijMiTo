@@ -36,6 +36,8 @@
 
 .swiper-pagination-clickable .swiper-pagination-bullet {
   background: var(--color-primary);
+  width: 20px;
+  height: 20px;
 }
 
 @media screen and (max-width: 1024px) {
