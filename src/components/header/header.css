@@ -53,6 +53,7 @@ header {
   left: 2rem;
   top: 2rem;
   cursor: pointer;
+  z-index: 10;
 }
 
 @media screen and (max-width: 600px) {
