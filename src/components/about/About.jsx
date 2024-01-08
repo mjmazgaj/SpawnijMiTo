@@ -1,8 +1,8 @@
 import "./about.min.css";
 import ME from "../../assets/about.jpg";
-import { FaAward } from "react-icons/fa";
-import { FiUsers } from "react-icons/fi";
-import { VscFolderLibrary } from "react-icons/vsc";
+import { GrProjects } from "react-icons/gr";
+import { GrLocation } from "react-icons/gr";
+import { RiPriceTag3Line } from "react-icons/ri";
 
 const About = () => {
   return (
@@ -13,7 +13,7 @@ const About = () => {
       <div className="container about__container">
         <div className="about__me">
           <div className="about__me-description">
-            <FiUsers className="about__icon" />
+            <GrProjects className="about__icon" />
             <h5>Projekty</h5>
             <small>niepowtarzalne</small>
             <small>loft</small>
@@ -28,19 +28,19 @@ const About = () => {
         <div className="about__content">
           <div className="about__cards">
             <article className="about__card">
-              <FaAward className="about__icon" />
+              <GrLocation className="about__icon" />
               <h5>Obszar działania</h5>
               <small>Cała Polska</small>
             </article>
             <article className="about__card">
-              <FiUsers className="about__icon" />
+              <RiPriceTag3Line className="about__icon" />
               <h5>Zamówienia</h5>
               <small>produkt rzemieślniczy</small>
               <small>wycena inwidualna</small>
               <small>wysoki standard</small>
             </article>
             <article className="about__card about__card-description">
-              <FiUsers className="about__icon" />
+              <GrProjects className="about__icon" />
               <h5>Projekty</h5>
               <small>loft</small>
               <small>industrial</small>

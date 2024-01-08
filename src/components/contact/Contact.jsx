@@ -2,7 +2,7 @@ import "./contact.min.css";
 import { FaFacebookF } from "react-icons/fa";
 import { MdOutlineEmail } from "react-icons/md";
 import { RiMessengerLine } from "react-icons/ri";
-import { BsWhatsapp } from "react-icons/bs";
+import { IoCallOutline } from "react-icons/io5";
 import { useRef } from "react";
 import emailjs from "emailjs-com";
 
@@ -54,7 +54,7 @@ const Contact = () => {
             </a>
           </article>
           <article className="contact__option">
-            <BsWhatsapp className="contact__option-icon" />
+            <IoCallOutline className="contact__option-icon" />
             <h4>Telefon</h4>
             <h5>731 854 334</h5>
             <a href="tel:731854334">Zadzwoń</a>
