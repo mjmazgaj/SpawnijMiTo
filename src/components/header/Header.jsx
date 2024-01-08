@@ -5,6 +5,7 @@ import HeaderSocial from "./HeaderSocials";
 const Header = () => {
   return (
     <header>
+      <HeaderSocial />
       <CTA />
       
       <div className="container header__container">
@@ -14,8 +15,6 @@ const Header = () => {
         </div>
         <h5 className="text-light">Producent mebli loftowych</h5>
       </div>
-
-      <HeaderSocial />
     </header>
   );
 };
