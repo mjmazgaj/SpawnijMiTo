@@ -17,7 +17,7 @@ const Experience = () => {
               <div>
                 <h4>Projekt</h4>
                 <small className="text-light">
-                  Realizyjemy indywiduwalne projekty na oczekiwany przez klienta
+                  Realizujemy indywiduwalne projekty na oczekiwany przez klienta
                   wymiar
                 </small>
               </div>
@@ -29,7 +29,7 @@ const Experience = () => {
               <div>
                 <h4>Blaty</h4>
                 <small className="text-light">
-                  Wykonywane z naturalnego drewna
+                  Wykonywane z naturalnego drewna lub płyty laminowanej
                 </small>
               </div>
             </div>
@@ -39,7 +39,7 @@ const Experience = () => {
               </div>
               <div>
                 <h4>Konstrukcja</h4>
-                <small className="text-light">Profile malowane proszkowo</small>
+                <small className="text-light">Spawana z profili, szlifowana oraz malowana proszkowo</small>
               </div>
             </div>
           </div>
