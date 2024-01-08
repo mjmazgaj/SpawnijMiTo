@@ -2,41 +2,48 @@ import "./portfolio.css";
 import IMG1 from "../../assets/portfolio/portfolio1.jpg";
 import IMG2 from "../../assets/portfolio/portfolio2.jpg";
 import IMG3 from "../../assets/portfolio/portfolio3.jpg";
-import IMG4 from "../../assets/portfolio/portfolio4.jpg";
-import IMG5 from "../../assets/portfolio/portfolio5.jpg";
+import IMG9 from "../../assets/portfolio/portfolio9.jpg";
+import IMG10 from "../../assets/portfolio/portfolio10.jpg";
+import IMG20 from "../../assets/portfolio/portfolio20.jpg";
 
 const data = [
   {
     id: 1,
     image: IMG1,
-    title: "Stolik Hi-fi",
-    description: "Stalowa konstrukcja z profilu 40x40 i 40x30 malowana proszkowo na kolor czarny mat drobna struktura. Blaty dębowe grubości 30 mm z niskimi kolcami i podkładkami w kolorze złotym."
+    title: "Stolik Hi-fi długi",
+    description: "Solidna stalowa konstrukcja wykonana z profili stalowych 40x40 i 40x30, pomalowana proszkowo na matowy czarny kolor o drobnej strukturze. Blaty z dębu o grubości 30 mm, wyposażone w niskie kolce oraz podkładki w kolorze złota."
   },
   {
     id: 2,
     image: IMG2,
-    title: "Regał pod sprzęt audio",
-    description: "Blaty wykonane z drewna dębowego, olejowane na kolor bezbarwny. Konstrukcja malowana proszkowo kolor czarny mat drobna struktura. Kolce koloru czarnego z czarnymi podkładkami"
+    title: "Stolik Hi-fi krótki",
+    description: "Wykonany z malowanej proszkowo stali oraz blatów dębowych w naturalnym kolorze. Całość uzupełniona o czarne kolce i czarne podkładki."
   },
   {
     id: 3,
     image: IMG3,
+    title: "Regał pod sprzęt audio",
+    description: "Wykonane z drewna dębowego blaty, delikatnie olejowane na bezbarwny odcień. Konstrukcja malowana proszkowo na matowy czarny kolor o drobnej strukturze. Kolce w kolorze czarnym z czarnymi podkładkami."
+  },
+  {
+    id: 9,
+    image: IMG9,
     title: "Kolce antywibracyjne",
-    description: "W większości naszych produktów stosujemy kolce antywibracyjne, które redukują przenoszenie drgań pomiędzy podłożem a urządzeniami."
+    description: "Przy tworzeniu naszych produktów wykorzystujemy kolce antywibracyjne, które redukują przenoszenie drgań pomiędzy podłożem a urządzeniami."
   },
   {
-    id: 4,
-    image: IMG4,
+    id: 10,
+    image: IMG10,
     title: "Szafka Rtv w stylu industrialnym",
-    description: "Prawie 50 letni foszt dębowy olejowoskowany.Ubytki, sęki wypełnione czarna szpachlą do drewna. Nogi wykonane z profilu zamkniętego i siatki ciągnionej zabezpieczone lakierem bezbarwnym."
+    description: "Szafka wykonana z prawie 50-letniego drewna dębowego, pokrytego warstwą olejowoskową. Nogi wykonane z profilu zamkniętego i siatki ciągnionej, zabezpieczone lakierem bezbarwnym."
   },
   {
-    id: 5,
-    image: IMG5,
+    id: 20,
+    image: IMG20,
     title: "Fotel industrialny",
-    description: "Prosta lekka konstrukcja, nowoczesny design, grube poduchy plamoodporne, konstrukcja malowana proszkowo"
-  },
-];
+    description: "Fotel o prostej, lekkiej konstrukcji i nowoczesnym designie. Posiada grube, plamoodporne poduchy oraz konstrukcję malowaną proszkowo, zapewniającą trwałość i wygodę."
+  }
+]
 
 const Portfolio = () => {
   return (
