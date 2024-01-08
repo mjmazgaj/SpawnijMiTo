@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/SpawnijMiTo/static/css/main.2acb7e29.css",
-    "main.js": "/SpawnijMiTo/static/js/main.6a3b5e90.js",
-    "static/media/background.jpg": "/SpawnijMiTo/static/media/background.7c58dbfbab1a97356c6f.jpg",
-    "static/media/about.jpg": "/SpawnijMiTo/static/media/about.286ed050dc673405c731.jpg",
+    "main.css": "/SpawnijMiTo/static/css/main.26defada.css",
+    "main.js": "/SpawnijMiTo/static/js/main.9eaf1c17.js",
+    "static/media/background.jpg": "/SpawnijMiTo/static/media/background.d98533756d00cedafaa1.jpg",
     "static/media/portfolio1.jpg": "/SpawnijMiTo/static/media/portfolio1.066ec6ca3c1cc2ca452d.jpg",
     "static/media/portfolio9.jpg": "/SpawnijMiTo/static/media/portfolio9.7b46825ed99b6e6f20f2.jpg",
     "static/media/portfolio3.jpg": "/SpawnijMiTo/static/media/portfolio3.7bd9dabcb30be5263ba7.jpg",
     "static/media/portfolio10.jpg": "/SpawnijMiTo/static/media/portfolio10.0dffe6b51069f88dc31b.jpg",
     "static/media/portfolio20.jpg": "/SpawnijMiTo/static/media/portfolio20.30a776d6da66f28a42b8.jpg",
+    "static/media/about.jpg": "/SpawnijMiTo/static/media/about.d6f7ed8d82fdb472f4df.jpg",
     "static/media/portfolio2.jpg": "/SpawnijMiTo/static/media/portfolio2.948396674034703e1172.jpg",
     "index.html": "/SpawnijMiTo/index.html",
-    "main.2acb7e29.css.map": "/SpawnijMiTo/static/css/main.2acb7e29.css.map",
-    "main.6a3b5e90.js.map": "/SpawnijMiTo/static/js/main.6a3b5e90.js.map"
+    "main.26defada.css.map": "/SpawnijMiTo/static/css/main.26defada.css.map",
+    "main.9eaf1c17.js.map": "/SpawnijMiTo/static/js/main.9eaf1c17.js.map"
   },
   "entrypoints": [
-    "static/css/main.2acb7e29.css",
-    "static/js/main.6a3b5e90.js"
+    "static/css/main.26defada.css",
+    "static/js/main.9eaf1c17.js"
   ]
 }
