@@ -7,17 +7,16 @@
 .portfolio__item {
   background: var(--color-background-variant);
   padding: 1.3rem;
-  border-radius: 2rem;
   border: 1px solid transparent;
   transition: var(--transition);
 }
 
 .portfolio__item h2{
   color: var(--color-primary);
+  margin-top: 1rem;
 }
 
 .portfolio__item-image {
-  border-radius: 1.5rem;
   overflow: hidden;
   aspect-ratio: 1/1;
 }

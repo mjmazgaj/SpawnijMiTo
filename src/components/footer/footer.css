@@ -36,7 +36,6 @@ footer a {
   background: var(--color-background);
   color: var(--color-white);
   padding: 0.8rem;
-  border-radius: 0.7rem;
   display: flex;
   border: 1px solid transparent;
 }
