@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/SpawnijMiTo/static/css/main.c14ff71b.css",
+    "main.css": "/SpawnijMiTo/static/css/main.1a3dcefa.css",
     "main.js": "/SpawnijMiTo/static/js/main.c02c035b.js",
     "static/media/background.jpg": "/SpawnijMiTo/static/media/background.d98533756d00cedafaa1.jpg",
     "static/media/portfolio1.jpg": "/SpawnijMiTo/static/media/portfolio1.c5de732a7a78ba7c6153.jpg",
@@ -12,11 +12,11 @@
     "static/media/portfolio2.jpg": "/SpawnijMiTo/static/media/portfolio2.4d7c3bc19750db4b7346.jpg",
     "static/media/portfolio3.jpg": "/SpawnijMiTo/static/media/portfolio3.d51cc0f3bdada9e27ee4.jpg",
     "index.html": "/SpawnijMiTo/index.html",
-    "main.c14ff71b.css.map": "/SpawnijMiTo/static/css/main.c14ff71b.css.map",
+    "main.1a3dcefa.css.map": "/SpawnijMiTo/static/css/main.1a3dcefa.css.map",
     "main.c02c035b.js.map": "/SpawnijMiTo/static/js/main.c02c035b.js.map"
   },
   "entrypoints": [
-    "static/css/main.c14ff71b.css",
+    "static/css/main.1a3dcefa.css",
     "static/js/main.c02c035b.js"
   ]
 }
