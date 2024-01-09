@@ -1,21 +1,22 @@
 {
   "files": {
-    "main.css": "/SpawnijMiTo/static/css/main.26defada.css",
-    "main.js": "/SpawnijMiTo/static/js/main.9eaf1c17.js",
+    "main.css": "/SpawnijMiTo/static/css/main.c14ff71b.css",
+    "main.js": "/SpawnijMiTo/static/js/main.c02c035b.js",
     "static/media/background.jpg": "/SpawnijMiTo/static/media/background.d98533756d00cedafaa1.jpg",
-    "static/media/portfolio1.jpg": "/SpawnijMiTo/static/media/portfolio1.066ec6ca3c1cc2ca452d.jpg",
-    "static/media/portfolio9.jpg": "/SpawnijMiTo/static/media/portfolio9.7b46825ed99b6e6f20f2.jpg",
-    "static/media/portfolio3.jpg": "/SpawnijMiTo/static/media/portfolio3.7bd9dabcb30be5263ba7.jpg",
-    "static/media/portfolio10.jpg": "/SpawnijMiTo/static/media/portfolio10.0dffe6b51069f88dc31b.jpg",
-    "static/media/portfolio20.jpg": "/SpawnijMiTo/static/media/portfolio20.30a776d6da66f28a42b8.jpg",
-    "static/media/about.jpg": "/SpawnijMiTo/static/media/about.d6f7ed8d82fdb472f4df.jpg",
-    "static/media/portfolio2.jpg": "/SpawnijMiTo/static/media/portfolio2.948396674034703e1172.jpg",
+    "static/media/portfolio1.jpg": "/SpawnijMiTo/static/media/portfolio1.c5de732a7a78ba7c6153.jpg",
+    "static/media/portfolio9.jpg": "/SpawnijMiTo/static/media/portfolio9.839bd305bc41bbf6a7a6.jpg",
+    "static/media/portfolio10.jpg": "/SpawnijMiTo/static/media/portfolio10.aa2c3dc19b62a7a466b1.jpg",
+    "static/media/about.jpg": "/SpawnijMiTo/static/media/about.ef2ec6a4fed3cb223c42.jpg",
+    "static/media/portfolio4.jpg": "/SpawnijMiTo/static/media/portfolio4.acfcfb3a617764aa644a.jpg",
+    "static/media/portfolio20.jpg": "/SpawnijMiTo/static/media/portfolio20.874e475a68e3cdb0e58f.jpg",
+    "static/media/portfolio2.jpg": "/SpawnijMiTo/static/media/portfolio2.4d7c3bc19750db4b7346.jpg",
+    "static/media/portfolio3.jpg": "/SpawnijMiTo/static/media/portfolio3.d51cc0f3bdada9e27ee4.jpg",
     "index.html": "/SpawnijMiTo/index.html",
-    "main.26defada.css.map": "/SpawnijMiTo/static/css/main.26defada.css.map",
-    "main.9eaf1c17.js.map": "/SpawnijMiTo/static/js/main.9eaf1c17.js.map"
+    "main.c14ff71b.css.map": "/SpawnijMiTo/static/css/main.c14ff71b.css.map",
+    "main.c02c035b.js.map": "/SpawnijMiTo/static/js/main.c02c035b.js.map"
   },
   "entrypoints": [
-    "static/css/main.26defada.css",
-    "static/js/main.9eaf1c17.js"
+    "static/css/main.c14ff71b.css",
+    "static/js/main.c02c035b.js"
   ]
 }
