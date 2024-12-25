@@ -92,6 +92,8 @@ a:hover {
 }
 
 .btn {
+  font: 16px Poppins, sans-serif;
+  color: var(--color-primary);
   width: max-content;
   display: inline-block;
   columns: var(--color-primary);
