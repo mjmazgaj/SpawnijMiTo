@@ -1,3 +1,153 @@
 {
-    "test": "testowanie"
+    "about": {
+        "title": "SpawnijMiTo",
+        "subTitle": "Learn more about",
+        "descriptionheader": "Projects",
+        "description1": "unique",
+        "description2": "loft",
+        "description3": "industrial",
+        "description4": "Hi-fi tables",
+        "descriptionAreaHeader": "Operating area",
+        "descriptionAreaText": "All of Poland",
+        "descriptionOrderHeader": "Orders",
+        "descriptionOrderText1": "artisan product",
+        "descriptionOrderText2": "individual pricing",
+        "descriptionOrderText3": "high standard",
+        "descriptionProjectsHeader": "Projects",
+        "descriptionProjectsText1": "loft",
+        "descriptionProjectsText2": "industrial",
+        "descriptionProjectsText3": "Hi-fi tables",
+        "descriptionText": "We are a Polish manufacturer of industrial furniture, lofts, Hi-fi audio tables, and speaker stands.",
+        "descriptionText2": "Imagine your design, and we will take care of the rest!",
+        "contact": "Write to us"
+    },
+    "contact": {
+        "interested": "Interested?",
+        "title": "Contact us",
+        "facebook": "Facebook",
+        "facebookName": "SpawnijMiTo",
+        "facebookLink": "Visit us on Facebook",
+        "email": "Email",
+        "emailAddress": "spawnijmito@gmail.com",
+        "emailLink": "Send a message",
+        "messenger": "Messenger",
+        "messengerName": "SpawnijMiTo",
+        "messengerLink": "Send a message",
+        "phone": "Phone",
+        "phoneNumber": "731 854 334",
+        "phoneLink": "Call us",
+        "formTitle": "Contact Form",
+        "formNamePlaceholder": "Full Name",
+        "formPhonePlaceholder": "Phone Number",
+        "formMessagePlaceholder": "Message",
+        "formSubmit": "Submit"
+    },
+    "portfolio": {
+        "portfolioTitle": "Portfolio",
+        "portfolioSubTitle": "View our",
+        "item1": {
+            "title": "Hi-fi Table",
+            "description": "Solid steel construction made of 40x40 and 40x30 steel profiles, powder-coated in matte black with a fine texture. Oak tops with a thickness of 30 mm, equipped with low spikes and gold-colored pads."
+        },
+        "item2": {
+            "title": "XXL TV Stand",
+            "description": "Tops made of oak wood, oiled in a clear color. Powder-coated construction in matte black with a fine texture. Black spikes with black pads."
+        },
+        "item3": {
+            "title": "Short Hi-fi Table",
+            "description": "Made of powder-coated steel and oak tops in natural color. The whole set is complemented by black spikes and black pads."
+        },
+        "item4": {
+            "title": "Audio Equipment Rack",
+            "description": "Shelves made of oak wood, slightly oiled in a clear shade. Construction powder-coated in matte black with a fine texture. Black spikes with black pads."
+        },
+        "item5": {
+            "title": "Anti-Vibration Spikes",
+            "description": "Our products utilize anti-vibration spikes, which reduce the transmission of vibrations between the surface and the devices."
+        },
+        "item6": {
+            "title": "Industrial TV Cabinet",
+            "description": "Cabinet made of nearly 50-year-old oak wood, covered with a layer of oil wax. Legs made of closed profile and expanded mesh, secured with clear lacquer."
+        },
+        "item7": {
+            "title": "Speaker Stands",
+            "description": "Stands with reinforced construction made of 40x30 profile powder-coated in matte black with a fine texture."
+        },
+        "item8": {
+            "title": "Layered Audio Table",
+            "description": "Table made of 40x30 profile powder-coated in matte black. Shelves made of laminated board in matte black."
+        },
+        "item9": {
+            "title": "Stands",
+            "description": "Stands made of 40x20 profile and 30 mm thick oak wood in cherry color."
+        },
+        "item10": {
+            "title": "Steel Stands",
+            "description": "Stands made of 40x30 profile and 5 mm thick steel plate."
+        },
+        "item11": {
+            "title": "Modern Desk",
+            "description": "Steel frame made of 50x30 profile. Powder-coated in matte black with a fine texture. Top made of laminated board in Golden Oak Craft color."
+        },
+        "item12": {
+            "title": "Audio TV Cabinet",
+            "description": "This time, a cabinet for equipment combining black steel and tops made of laminated board in Golden Oak Craft color."
+        },
+        "item13": {
+            "title": "Cabinet with Bar",
+            "description": "Entirely made of 30x30 profile and crimped mesh powder-coated in matte black. Fully filled with mesh and reinforced flooring. Doors open upwards on struts and prepared for a padlock."
+        },
+        "item14": {
+            "title": "Shoe and Clothing Cabinet",
+            "description": "Cabinet made of profile mesh and laminated board in Golden Oak Craft color."
+        },
+        "item15": {
+            "title": "Industrial Armchair",
+            "description": "Armchair with a simple, lightweight construction and modern design. Equipped with thick, stain-resistant cushions and powder-coated construction for durability and comfort."
+        }
+    },
+    "footer": {
+        "logo": "SpawnijMiTo",
+        "home": "Home",
+        "about": "About Us",
+        "services": "Our Products",
+        "portfolio": "Our Projects",
+        "testimonials": "Testimonials",
+        "contact": "Contact",
+        "copyright": "&copy; Bainar ET. All rights reserved."
+    },
+    "header": {
+        "logoFirstLine": "SPAWNIJ",
+        "logoSecondLine": "MiTo",
+        "subtitle": "Manufacturer of Loft Furniture"
+    },
+    "services": {
+        "subtitle": "Discover",
+        "title": "Our Products",
+        "project": "Project",
+        "projectDescription": "We create custom projects tailored to the client's expected dimensions.",
+        "tables": "Tops",
+        "tablesDescription": "Made from natural wood or laminated board.",
+        "structure": "Construction",
+        "structureDescription": "Welded from profiles, ground, and powder-coated."
+    },
+    "testimonials": {
+        "subtitle": "What do our clients say?",
+        "title": "Testimonials",
+        "clientName": "Anonymous",
+        "reviews": [
+            {
+                "id": 1,
+                "review": "I struggled with various budget tables until I found this company. I highly recommend it. Contact, project arrangements, shipping... everything at the highest level 👍😊 Ps. I've already ordered a second one."
+            },
+            {
+                "id": 2,
+                "review": "Solidly designed cabinet, you can see the thought put into it, and the craftsmanship is excellent. Congratulations! 😏"
+            },
+            {
+                "id": 3,
+                "review": "Top-notch craftsmanship, great contact, very reasonable price. This is my first piece of furniture from this company, but certainly not the last. I highly recommend it."
+            }
+        ]
+    }
 }

@@ -1,3 +1,154 @@
 {
-    "test": "testowanie"
-}
+    "about": {
+      "title": "SpawnijMiTo",
+      "subTitle": "Erfahren Sie mehr über",
+      "descriptionheader": "Projekte",
+      "description1": "einzigartig",
+      "description2": "Loft",
+      "description3": "industriell",
+      "description4": "Hi-fi-Tische",
+      "descriptionAreaHeader": "Einsatzgebiet",
+      "descriptionAreaText": "Ganz Polen",
+      "descriptionOrderHeader": "Bestellungen",
+      "descriptionOrderText1": "handgefertigtes Produkt",
+      "descriptionOrderText2": "individuelle Preisgestaltung",
+      "descriptionOrderText3": "hoher Standard",
+      "descriptionProjectsHeader": "Projekte",
+      "descriptionProjectsText1": "Loft",
+      "descriptionProjectsText2": "industriell",
+      "descriptionProjectsText3": "Hi-fi-Tische",
+      "descriptionText": "Wir sind ein polnischer Hersteller von Industriemöbeln, Lofts, Hi-fi-Audiotischen und Lautsprecherständern.",
+      "descriptionText2": "Stellen Sie sich Ihr Design vor, und wir kümmern uns um den Rest!",
+      "contact": "Schreiben Sie uns"
+    },
+    "contact": {
+      "interested": "Interessiert?",
+      "title": "Kontaktieren Sie uns",
+      "facebook": "Facebook",
+      "facebookName": "SpawnijMiTo",
+      "facebookLink": "Besuchen Sie uns auf Facebook",
+      "email": "E-Mail",
+      "emailAddress": "spawnijmito@gmail.com",
+      "emailLink": "Nachricht senden",
+      "messenger": "Messenger",
+      "messengerName": "SpawnijMiTo",
+      "messengerLink": "Nachricht senden",
+      "phone": "Telefon",
+      "phoneNumber": "731 854 334",
+      "phoneLink": "Anrufen",
+      "formTitle": "Kontaktformular",
+      "formNamePlaceholder": "Vor- und Nachname",
+      "formPhonePlaceholder": "Telefonnummer",
+      "formMessagePlaceholder": "Nachricht",
+      "formSubmit": "Senden"
+    },
+    "portfolio": {
+      "portfolioTitle": "Portfolio",
+      "portfolioSubTitle": "Sehen Sie sich unsere",
+      "item1": {
+        "title": "Hi-fi-Tisch",
+        "description": "Solide Stahlkonstruktion aus 40x40- und 40x30-Stahlprofilen, pulverbeschichtet in mattem Schwarz mit feiner Struktur. Eichenplatten mit einer Dicke von 30 mm, ausgestattet mit niedrigen Spikes und goldfarbenen Pads."
+      },
+      "item2": {
+        "title": "XXL-Fernsehständer",
+        "description": "Platten aus Eichenholz, geölt in klarer Farbe. Pulverbeschichtete Konstruktion in mattem Schwarz mit feiner Struktur. Schwarze Spikes mit schwarzen Pads."
+      },
+      "item3": {
+        "title": "Kleiner Hi-fi-Tisch",
+        "description": "Aus pulverbeschichtetem Stahl und Eichenplatten in Naturfarbe. Komplettiert mit schwarzen Spikes und schwarzen Pads."
+      },
+      "item4": {
+        "title": "Audio-Equipment-Regal",
+        "description": "Regale aus Eichenholz, leicht geölt in klarem Farbton. Konstruktion pulverbeschichtet in mattem Schwarz mit feiner Struktur. Schwarze Spikes mit schwarzen Pads."
+      },
+      "item5": {
+        "title": "Anti-Vibrations-Spikes",
+        "description": "Unsere Produkte verwenden Anti-Vibrations-Spikes, die die Übertragung von Vibrationen zwischen Boden und Geräten reduzieren."
+      },
+      "item6": {
+        "title": "Industrielles TV-Schränkchen",
+        "description": "Schrank aus fast 50 Jahre altem Eichenholz, mit einer Schicht Öl-Wachs überzogen. Beine aus geschlossenen Profilen und Streckmetall, mit Klarlack gesichert."
+      },
+      "item7": {
+        "title": "Lautsprecherständer",
+        "description": "Ständer mit verstärkter Konstruktion aus 40x30-Profil, pulverbeschichtet in mattem Schwarz mit feiner Struktur."
+      },
+      "item8": {
+        "title": "Geschichteter Audiotisch",
+        "description": "Tisch aus 40x30-Profil, pulverbeschichtet in mattem Schwarz. Regale aus laminiertem Brett in mattem Schwarz."
+      },
+      "item9": {
+        "title": "Ständer",
+        "description": "Ständer aus 40x20-Profil und 30 mm dickem Eichenholz in Kirschfarbe."
+      },
+      "item10": {
+        "title": "Stahlständer",
+        "description": "Ständer aus 40x30-Profil und 5 mm dicker Stahlplatte."
+      },
+      "item11": {
+        "title": "Moderner Schreibtisch",
+        "description": "Stahlrahmen aus 50x30-Profil. Pulverbeschichtet in mattem Schwarz mit feiner Struktur. Platte aus laminiertem Brett in der Farbe Goldene Eiche Craft."
+      },
+      "item12": {
+        "title": "Audio-TV-Schränkchen",
+        "description": "Dieses Mal ein Schränkchen für Geräte, das schwarzen Stahl und Platten aus laminiertem Brett in der Farbe Goldene Eiche Craft kombiniert."
+      },
+      "item13": {
+        "title": "Schrank mit Bar",
+        "description": "Vollständig aus 30x30-Profil und gekräuseltem Gitter, pulverbeschichtet in mattem Schwarz. Komplett mit Gitter und verstärktem Boden gefüllt. Türen öffnen sich nach oben auf Gasfedern und sind für ein Vorhängeschloss vorbereitet."
+      },
+      "item14": {
+        "title": "Schuh- und Kleiderschrank",
+        "description": "Schrank aus Profilgitter und laminiertem Brett in der Farbe Goldene Eiche Craft."
+      },
+      "item15": {
+        "title": "Industrieller Sessel",
+        "description": "Sessel mit einfacher, leichter Konstruktion und modernem Design. Ausgestattet mit dicken, fleckenabweisenden Kissen und einer pulverbeschichteten Konstruktion für Haltbarkeit und Komfort."
+      }
+    },
+    "footer": {
+      "logo": "SpawnijMiTo",
+      "home": "Startseite",
+      "about": "Über uns",
+      "services": "Unsere Produkte",
+      "portfolio": "Unsere Projekte",
+      "testimonials": "Referenzen",
+      "contact": "Kontakt",
+      "copyright": "&copy; Bainar ET. Alle Rechte vorbehalten."
+    },
+    "header": {
+      "logoFirstLine": "SPAWNIJ",
+      "logoSecondLine": "MiTo",
+      "subtitle": "Hersteller von Loftmöbeln"
+    },
+    "services": {
+      "subtitle": "Entdecken Sie",
+      "title": "Unsere Produkte",
+      "project": "Projekt",
+      "projectDescription": "Wir erstellen maßgeschneiderte Projekte, die den Erwartungen des Kunden entsprechen.",
+      "tables": "Tischplatten",
+      "tablesDescription": "Aus natürlichem Holz oder laminiertem Brett gefertigt.",
+      "structure": "Konstruktion",
+      "structureDescription": "Geschweißt aus Profilen, geschliffen und pulverbeschichtet."
+    },
+    "testimonials": {
+      "subtitle": "Was sagen unsere Kunden?",
+      "title": "Referenzen",
+      "clientName": "Anonym",
+      "reviews": [
+        {
+          "id": 1,
+          "review": "Ich habe lange mit verschiedenen günstigen Tischen experimentiert, bis ich auf diese Firma gestoßen bin. Ich kann sie sehr empfehlen. Kontakt, Projektabstimmungen, Versand... alles auf höchstem Niveau 👍😊 Ps. Ich habe bereits einen zweiten bestellt."
+        },
+        {
+          "id": 2,
+          "review": "Solider Schrank, man sieht die durchdachte Arbeit, und die Verarbeitung ist meisterhaft. Glückwunsch! 😏"
+        },
+        {
+          "id": 3,
+          "review": "Erstklassige Verarbeitung, toller Kontakt, sehr angemessener Preis. Das ist mein erstes Möbelstück von dieser Firma, aber sicherlich nicht das letzte. Ich kann sie nur empfehlen."
+        }
+      ]
+    }
+  }
+  
