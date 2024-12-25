@@ -1,65 +1,153 @@
 {
+    "about": {
+        "title": "SpawnijMiTo",
+        "subTitle": "Dowiedz się więcej o",
+        "descriptionheader": "Projekty",
+        "description1": "niepowtarzalne",
+        "description2": "loft",
+        "description3": "industrial",
+        "description4": "stoliki Hi-fi",
+        "descriptionAreaHeader": "Obszar działania",
+        "descriptionAreaText": "Cała Polska",
+        "descriptionOrderHeader": "Zamówienia",
+        "descriptionOrderText1": "produkt rzemieślniczy",
+        "descriptionOrderText2": "wycena inwidualna",
+        "descriptionOrderText3": "wysoki standard",
+        "descriptionProjectsHeader": "Projekty",
+        "descriptionProjectsText1": "loft",
+        "descriptionProjectsText2": "industrial",
+        "descriptionProjectsText3": "stoliki Hi-fi",
+        "descriptionText": "Jesteśmy polskim producentem mebli industrialnych, Loft, stolików audio typu Hi-fi oraz standów głośnikowych.",
+        "descriptionText2": "Wymyśl swoją konstrukcje, a my zajmiemy się resztą!",
+        "contact": "Napisz do nas"
+    },
+    "contact": {
+        "interested": "Zainteresowany?",
+        "title": "Skontaktuj się z nami",
+        "facebook": "Facebook",
+        "facebookName": "SpawnijMiTo",
+        "facebookLink": "Odwiedź nas na Facebooku",
+        "email": "Email",
+        "emailAddress": "spawnijmito@gmail.com",
+        "emailLink": "Napisz wiadomość",
+        "messenger": "Messenger",
+        "messengerName": "SpawnijMiTo",
+        "messengerLink": "Napisz wiadomość",
+        "phone": "Telefon",
+        "phoneNumber": "731 854 334",
+        "phoneLink": "Zadzwoń",
+        "formTitle": "Formularz kontaktowy",
+        "formNamePlaceholder": "Imię i nazwisko",
+        "formPhonePlaceholder": "Numer telefonu",
+        "formMessagePlaceholder": "Wiadomość",
+        "formSubmit": "Wyślij"
+    },
     "portfolio": {
-      "item1": {
-        "title": "Stolik Hi-fi",
-        "description": "Solidna stalowa konstrukcja wykonana z profili stalowych 40x40 i 40x30, pomalowana proszkowo na matowy czarny kolor o drobnej strukturze. Blaty z dębu o grubości 30 mm, wyposażone w niskie kolce oraz podkładki w kolorze złota."
-      },
-      "item2": {
-        "title": "Stolik Rtv XXL",
-        "description": "Blaty wykonane z drewna dębowego, olejowane na kolor bezbarwny. Konstrukcja malowana proszkowo, kolor czarny mat o drobnej strukturze. Kolce koloru czarnego z czarnymi podkładkami."
-      },
-      "item3": {
-        "title": "Stolik Hi-fi krótki",
-        "description": "Wykonany z malowanej proszkowo stali oraz blatów dębowych w naturalnym kolorze. Całość uzupełniona o czarne kolce i czarne podkładki."
-      },
-      "item4": {
-        "title": "Regał pod sprzęt audio",
-        "description": "Wykonane z drewna dębowego blaty, delikatnie olejowane na bezbarwny odcień. Konstrukcja malowana proszkowo na matowy czarny kolor o drobnej strukturze. Kolce w kolorze czarnym z czarnymi podkładkami."
-      },
-      "item5": {
-        "title": "Kolce antywibracyjne",
-        "description": "Przy tworzeniu naszych produktów wykorzystujemy kolce antywibracyjne, które redukują przenoszenie drgań pomiędzy podłożem a urządzeniami."
-      },
-      "item6": {
-        "title": "Szafka Rtv w stylu industrialnym",
-        "description": "Szafka wykonana z prawie 50-letniego drewna dębowego, pokrytego warstwą olejowoskową. Nogi wykonane z profilu zamkniętego i siatki ciągnionej, zabezpieczone lakierem bezbarwnym."
-      },
-      "item7": {
-        "title": "Standy Podstawki głośnikowe",
-        "description": "Standy z wzmocnioną konstrukcją wykonane z profilu 40x30 malowane proszkowo czarny mat drobna struktura."
-      },
-      "item8": {
-        "title": "Stolik audio poziomowy",
-        "description": "Stolik wykonany z Profilu 40x30 malowanego proszkowo kolor czarny mat. Półki wykonane z płyty laminowanej w kolorze czarny mat."
-      },
-      "item9": {
-        "title": "Standy",
-        "description": "Standy wykonane z profilu 40x20 oraz drewna dębowego grubości 30 mm w kolorze wiśniowym."
-      },
-      "item10": {
-        "title": "Standy Stalowe",
-        "description": "Standy wykonane z profilu 40x30 oraz blachy stalowej grubości 5 mm."
-      },
-      "item11": {
-        "title": "Biurko nowoczesne",
-        "description": "Rama stalowa wykonana z profilu 50x30. Malowana proszkowo na kolor czarny mat drobna struktura. Blat wykonany z płyty laminowanej w kolorze Złoty dąb Craft."
-      },
-      "item12": {
-        "title": "Szafka Rtv audio",
-        "description": "Tym razem szafka na sprzęt w połączeniu czarnej stali i blatów z płyty laminowanej kolor Dąb złoty Craft."
-      },
-      "item13": {
-        "title": "Szafka z Barkiem",
-        "description": "Całość wykonana z profilu 30x30 i siatki karbowanej malowana proszkowo kolor czarny mat. W całości wypełniony siatką i wzmocnioną podłogą. Drzwiczki otwierane do góry na siłownikach i przygotowany uchwyt pod kłódkę."
-      },
-      "item14": {
-        "title": "Szafka na buty i ubrania",
-        "description": "Szafka wykonana z profilu siatki oraz płyty laminowanej w kolorze Złoty Dąb Craft."
-      },
-      "item15": {
-        "title": "Fotel industrialny",
-        "description": "Fotel o prostej, lekkiej konstrukcji i nowoczesnym designie. Posiada grube, plamoodporne poduchy oraz konstrukcję malowaną proszkowo, zapewniającą trwałość i wygodę."
-      }
+        "portfolioTitle": "Realizacje",
+        "portfolioSubTitle": "Obejrzyj nasze",
+        "item1": {
+            "title": "Stolik Hi-fi",
+            "description": "Solidna stalowa konstrukcja wykonana z profili stalowych 40x40 i 40x30, pomalowana proszkowo na matowy czarny kolor o drobnej strukturze. Blaty z dębu o grubości 30 mm, wyposażone w niskie kolce oraz podkładki w kolorze złota."
+        },
+        "item2": {
+            "title": "Stolik Rtv XXL",
+            "description": "Blaty wykonane z drewna dębowego, olejowane na kolor bezbarwny. Konstrukcja malowana proszkowo, kolor czarny mat o drobnej strukturze. Kolce koloru czarnego z czarnymi podkładkami."
+        },
+        "item3": {
+            "title": "Stolik Hi-fi krótki",
+            "description": "Wykonany z malowanej proszkowo stali oraz blatów dębowych w naturalnym kolorze. Całość uzupełniona o czarne kolce i czarne podkładki."
+        },
+        "item4": {
+            "title": "Regał pod sprzęt audio",
+            "description": "Wykonane z drewna dębowego blaty, delikatnie olejowane na bezbarwny odcień. Konstrukcja malowana proszkowo na matowy czarny kolor o drobnej strukturze. Kolce w kolorze czarnym z czarnymi podkładkami."
+        },
+        "item5": {
+            "title": "Kolce antywibracyjne",
+            "description": "Przy tworzeniu naszych produktów wykorzystujemy kolce antywibracyjne, które redukują przenoszenie drgań pomiędzy podłożem a urządzeniami."
+        },
+        "item6": {
+            "title": "Szafka Rtv w stylu industrialnym",
+            "description": "Szafka wykonana z prawie 50-letniego drewna dębowego, pokrytego warstwą olejowoskową. Nogi wykonane z profilu zamkniętego i siatki ciągnionej, zabezpieczone lakierem bezbarwnym."
+        },
+        "item7": {
+            "title": "Standy Podstawki głośnikowe",
+            "description": "Standy z wzmocnioną konstrukcją wykonane z profilu 40x30 malowane proszkowo czarny mat drobna struktura."
+        },
+        "item8": {
+            "title": "Stolik audio poziomowy",
+            "description": "Stolik wykonany z Profilu 40x30 malowanego proszkowo kolor czarny mat. Półki wykonane z płyty laminowanej w kolorze czarny mat."
+        },
+        "item9": {
+            "title": "Standy",
+            "description": "Standy wykonane z profilu 40x20 oraz drewna dębowego grubości 30 mm w kolorze wiśniowym."
+        },
+        "item10": {
+            "title": "Standy Stalowe",
+            "description": "Standy wykonane z profilu 40x30 oraz blachy stalowej grubości 5 mm."
+        },
+        "item11": {
+            "title": "Biurko nowoczesne",
+            "description": "Rama stalowa wykonana z profilu 50x30. Malowana proszkowo na kolor czarny mat drobna struktura. Blat wykonany z płyty laminowanej w kolorze Złoty dąb Craft."
+        },
+        "item12": {
+            "title": "Szafka Rtv audio",
+            "description": "Tym razem szafka na sprzęt w połączeniu czarnej stali i blatów z płyty laminowanej kolor Dąb złoty Craft."
+        },
+        "item13": {
+            "title": "Szafka z Barkiem",
+            "description": "Całość wykonana z profilu 30x30 i siatki karbowanej malowana proszkowo kolor czarny mat. W całości wypełniony siatką i wzmocnioną podłogą. Drzwiczki otwierane do góry na siłownikach i przygotowany uchwyt pod kłódkę."
+        },
+        "item14": {
+            "title": "Szafka na buty i ubrania",
+            "description": "Szafka wykonana z profilu siatki oraz płyty laminowanej w kolorze Złoty Dąb Craft."
+        },
+        "item15": {
+            "title": "Fotel industrialny",
+            "description": "Fotel o prostej, lekkiej konstrukcji i nowoczesnym designie. Posiada grube, plamoodporne poduchy oraz konstrukcję malowaną proszkowo, zapewniającą trwałość i wygodę."
+        }
+    },
+    "footer": {
+        "logo": "SpawnijMiTo",
+        "home": "Strona główna",
+        "about": "O nas",
+        "services": "Nasze produkty",
+        "portfolio": "Nasze realizacje",
+        "testimonials": "Opinie",
+        "contact": "Kontakt",
+        "copyright": "&copy; Bainar ET. Wszelkie prawa zastrzeżone."
+    },
+    "header": {
+        "logoFirstLine": "SPAWNIJ",
+        "logoSecondLine": "MiTo",
+        "subtitle": "Producent mebli loftowych"
+    },
+    "services": {
+        "subtitle": "Poznaj",
+        "title": "Nasze produkty",
+        "project": "Projekt",
+        "projectDescription": "Realizujemy indywiduwalne projekty na oczekiwany przez klienta wymiar",
+        "tables": "Blaty",
+        "tablesDescription": "Wykonywane z naturalnego drewna lub płyty laminowanej",
+        "structure": "Konstrukcja",
+        "structureDescription": "Spawana z profili, szlifowana oraz malowana proszkowo"
+    },
+    "testimonials": {
+        "subtitle": "Co piszą o nas nasi klienci?",
+        "title": "Opinie",
+        "clientName": "Tajemne Nazwisko",
+        "reviews": [
+            {
+                "id": 1,
+                "review": "Długi czas kombinowałem z różnymi budżetowymi stolikami aż trafiłem na tą firmę. Ja polecam. Kontakt, uzgodnienia projektu, wysyłka.... wszystko na najwyższym poziomie 👍😊Ps. Zamówiłem już drugą."
+            },
+            {
+                "id": 2,
+                "review": "Konkretna szafka widać przemyślana a wykonanie to mistrzostwo, gratuluję😏"
+            },
+            {
+                "id": 3,
+                "review": "Wykonanie pierwsza klasa, super kontakt, bardzo przystępna cena. Jest to mój pierwszy mebel wykonany przez tą firmę, ale na pewno nie ostatni. Szczerze polecam."
+            }
+        ]
     }
-  }
-  
+}

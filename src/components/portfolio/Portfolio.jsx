@@ -38,8 +38,8 @@ console.log(images)
 
   return (
     <section id="portfolio">
-      <h5>Obejrzyj nasze</h5>
-      <h2>Realizacje</h2>
+      <h5>{t("portfolio.portfolioSubTitle")}</h5>
+      <h2>{t("portfolio.portfolioTitle")}</h2>
       <div className="container portfolio__container">
         {products.map(({ id, image, title, description }) => (
           <article key={id} className="portfolio__item">

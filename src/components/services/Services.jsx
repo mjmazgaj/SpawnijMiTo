@@ -1,11 +1,14 @@
 import "./services.min.css";
 import { BsPatchCheckFill } from "react-icons/bs";
+import { useTranslation } from "react-i18next";
 
 const Experience = () => {
+  const { t } = useTranslation();
+
   return (
     <section id="services">
-      <h5>Poznaj</h5>
-      <h2>Nasze produkty</h2>
+      <h5>{t("services.subtitle")}</h5>
+      <h2>{t("services.title")}</h2>
 
       <div className="container experience__container">
         <div className="experiance__item">
@@ -15,11 +18,8 @@ const Experience = () => {
                 <BsPatchCheckFill className="experience__details-icon" />
               </div>
               <div>
-                <h4>Projekt</h4>
-                <small className="text-light">
-                  Realizujemy indywiduwalne projekty na oczekiwany przez klienta
-                  wymiar
-                </small>
+                <h4>{t("services.project")}</h4>
+                <small className="text-light">{t("services.projectDescription")}</small>
               </div>
             </div>
             <div className="experience__details">
@@ -27,10 +27,8 @@ const Experience = () => {
                 <BsPatchCheckFill className="experience__details-icon" />
               </div>
               <div>
-                <h4>Blaty</h4>
-                <small className="text-light">
-                  Wykonywane z naturalnego drewna lub płyty laminowanej
-                </small>
+                <h4>{t("services.tables")}</h4>
+                <small className="text-light">{t("services.tablesDescription")}</small>
               </div>
             </div>
             <div className="experience__details">
@@ -38,8 +36,8 @@ const Experience = () => {
                 <BsPatchCheckFill className="experience__details-icon" />
               </div>
               <div>
-                <h4>Konstrukcja</h4>
-                <small className="text-light">Spawana z profili, szlifowana oraz malowana proszkowo</small>
+                <h4>{t("services.structure")}</h4>
+                <small className="text-light">{t("services.structureDescription")}</small>
               </div>
             </div>
           </div>
