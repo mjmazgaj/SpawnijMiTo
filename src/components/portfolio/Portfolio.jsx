@@ -14,8 +14,6 @@ const Portfolio = () => {
 
       const images = importAll(require.context("../../assets/portfolio", true, /.jpg$/));
 
-console.log(images)
-
       const productsData = await Promise.all(
         images.map(async (image, index) => {
           const title = t(`portfolio.item${index+1}.title`);
