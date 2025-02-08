@@ -22,7 +22,7 @@ const Footer = () => {
       </div>
 
       <div className="footer__copyright">
-        <small>{t("footer.copyright")}</small>
+        <small>&copy; Bainar ET. {t("footer.copyright")}</small>
       </div>
     </footer>
   );
