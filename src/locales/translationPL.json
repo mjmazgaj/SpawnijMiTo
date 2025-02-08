@@ -1,4 +1,8 @@
 {
+    "cta":{
+        "portfolio":"Realizacje",
+        "contact":"Kontakt"
+    },
     "about": {
         "title": "SpawnijMiTo",
         "subTitle": "Dowiedz się więcej o",

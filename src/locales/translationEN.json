@@ -1,4 +1,8 @@
 {
+    "cta":{
+        "portfolio":"Projects",
+        "contact":"Contact"
+    },
     "about": {
         "title": "SpawnijMiTo",
         "subTitle": "Learn more about",
