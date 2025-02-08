@@ -34,7 +34,7 @@ console.log(images)
     };
 
     fetchProducts();
-  }, []);
+  }, [t]);
 
   return (
     <section id="portfolio">
