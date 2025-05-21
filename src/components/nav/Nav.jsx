@@ -11,35 +11,35 @@ const Nav = () => {
   return (
     <nav>
       <a
-        href="#"
+        href="/#"
         onClick={() => setActiveNav("#")}
         className={activeNav === "#" ? "active" : ""}
       >
         <AiOutlineHome />
       </a>
       <a
-        href="#about"
+        href="/#about"
         onClick={() => setActiveNav("#about")}
         className={activeNav === "#about" ? "active" : ""}
       >
         <AiOutlineUser />
       </a>
       <a
-        href="#services"
+        href="/#services"
         onClick={() => setActiveNav("#services")}
         className={activeNav === "#services" ? "active" : ""}
       >
         <BiBook />
       </a>
       <a
-        href="#portfolio"
+        href="/#portfolio"
         onClick={() => setActiveNav("#portfolio")}
         className={activeNav === "#portfolio" ? "active" : ""}
       >
         <RiServiceLine />
       </a>
       <a
-        href="#contact"
+        href="/#contact"
         onClick={() => setActiveNav("#contact")}
         className={activeNav === "#contact" ? "active" : ""}
       >
