@@ -37,7 +37,7 @@ const Portfolio = () => {
           const folderName = path.split("/")[1];
 
           const title = t(`portfolio.${folderName}.title`);
-          const description = t(`portfolio.${folderName}.description`);
+          const description = t(`portfolio.${folderName}.shortDescription`);
 
           return {
             id: index + 1,

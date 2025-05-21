@@ -54,63 +54,83 @@
     "gallery": "Galerie",
     "01-Table-Hi_Fi": {
       "title": "Hi-fi-Tisch",
+      "shortDescription": "Solide Stahlkonstruktion aus 40x40- und 40x30-Stahlprofilen, pulverbeschichtet in mattem Schwarz mit feiner Struktur. Eichenplatten mit einer Dicke von 30 mm, ausgestattet mit niedrigen Spikes und goldfarbenen Pads.",
       "description": "Solide Stahlkonstruktion aus 40x40- und 40x30-Stahlprofilen, pulverbeschichtet in mattem Schwarz mit feiner Struktur. Eichenplatten mit einer Dicke von 30 mm, ausgestattet mit niedrigen Spikes und goldfarbenen Pads."
     },
     "02-Table-XXL": {
       "title": "XXL-Fernsehständer",
+      "shortDescription": "Platten aus Eichenholz, geölt in klarer Farbe. Pulverbeschichtete Konstruktion in mattem Schwarz mit feiner Struktur. Schwarze Spikes mit schwarzen Pads.",
       "description": "Platten aus Eichenholz, geölt in klarer Farbe. Pulverbeschichtete Konstruktion in mattem Schwarz mit feiner Struktur. Schwarze Spikes mit schwarzen Pads."
     },
     "03-Table-Hi_Fi-2": {
       "title": "Kleiner Hi-fi-Tisch",
+      "shortDescription": "Aus pulverbeschichtetem Stahl und Eichenplatten in Naturfarbe. Komplettiert mit schwarzen Spikes und schwarzen Pads.",
       "description": "Aus pulverbeschichtetem Stahl und Eichenplatten in Naturfarbe. Komplettiert mit schwarzen Spikes und schwarzen Pads."
     },
     "04-Audio": {
       "title": "Audio-Equipment-Regal",
+      "shortDescription": "Regale aus Eichenholz, leicht geölt in klarem Farbton. Konstruktion pulverbeschichtet in mattem Schwarz mit feiner Struktur. Schwarze Spikes mit schwarzen Pads.",
       "description": "Regale aus Eichenholz, leicht geölt in klarem Farbton. Konstruktion pulverbeschichtet in mattem Schwarz mit feiner Struktur. Schwarze Spikes mit schwarzen Pads."
     },
     "05-Spikes": {
       "title": "Anti-Vibrations-Spikes",
+      "shortDescription": "Unsere Produkte verwenden Anti-Vibrations-Spikes, die die Übertragung von Vibrationen zwischen Boden und Geräten reduzieren.",
       "description": "Unsere Produkte verwenden Anti-Vibrations-Spikes, die die Übertragung von Vibrationen zwischen Boden und Geräten reduzieren."
     },
     "06-Cabinet-TV": {
       "title": "Industrielles TV-Schränkchen",
+      "shortDescription": "Schrank aus fast 50 Jahre altem Eichenholz, mit einer Schicht Öl-Wachs überzogen. Beine aus geschlossenen Profilen und Streckmetall, mit Klarlack gesichert.",
       "description": "Schrank aus fast 50 Jahre altem Eichenholz, mit einer Schicht Öl-Wachs überzogen. Beine aus geschlossenen Profilen und Streckmetall, mit Klarlack gesichert."
     },
     "07-Stands-Speaker": {
       "title": "Lautsprecherständer",
+      "shortDescription": "Ständer mit verstärkter Konstruktion aus 40x30-Profil, pulverbeschichtet in mattem Schwarz mit feiner Struktur.",
       "description": "Ständer mit verstärkter Konstruktion aus 40x30-Profil, pulverbeschichtet in mattem Schwarz mit feiner Struktur."
     },
     "08-Table-Audio": {
       "title": "Geschichteter Audiotisch",
+      "shortDescription": "Tisch aus 40x30-Profil, pulverbeschichtet in mattem Schwarz. Regale aus laminiertem Brett in mattem Schwarz.",
       "description": "Tisch aus 40x30-Profil, pulverbeschichtet in mattem Schwarz. Regale aus laminiertem Brett in mattem Schwarz."
     },
     "09-Stands": {
       "title": "Ständer",
+      "shortDescription": "Ständer aus 40x20-Profil und 30 mm dickem Eichenholz in Kirschfarbe.",
       "description": "Ständer aus 40x20-Profil und 30 mm dickem Eichenholz in Kirschfarbe."
     },
     "10-Stands-Steel": {
       "title": "Stahlständer",
+      "shortDescription": "Ständer aus 40x30-Profil und 5 mm dicker Stahlplatte.",
       "description": "Ständer aus 40x30-Profil und 5 mm dicker Stahlplatte."
     },
     "11-Desk-Modern": {
       "title": "Moderner Schreibtisch",
+      "shortDescription": "Stahlrahmen aus 50x30-Profil. Pulverbeschichtet in mattem Schwarz mit feiner Struktur. Platte aus laminiertem Brett in der Farbe Goldene Eiche Craft.",
       "description": "Stahlrahmen aus 50x30-Profil. Pulverbeschichtet in mattem Schwarz mit feiner Struktur. Platte aus laminiertem Brett in der Farbe Goldene Eiche Craft."
     },
     "12-Cabinet-TV": {
       "title": "Audio-TV-Schränkchen",
+      "shortDescription": "Dieses Mal ein Schränkchen für Geräte, das schwarzen Stahl und Platten aus laminiertem Brett in der Farbe Goldene Eiche Craft kombiniert.",
       "description": "Dieses Mal ein Schränkchen für Geräte, das schwarzen Stahl und Platten aus laminiertem Brett in der Farbe Goldene Eiche Craft kombiniert."
     },
     "13-Cabinet-Bar": {
       "title": "Schrank mit Bar",
+      "shortDescription": "Vollständig aus 30x30-Profil und gekräuseltem Gitter, pulverbeschichtet in mattem Schwarz. Komplett mit Gitter und verstärktem Boden gefüllt. Türen öffnen sich nach oben auf Gasfedern und sind für ein Vorhängeschloss vorbereitet.",
       "description": "Vollständig aus 30x30-Profil und gekräuseltem Gitter, pulverbeschichtet in mattem Schwarz. Komplett mit Gitter und verstärktem Boden gefüllt. Türen öffnen sich nach oben auf Gasfedern und sind für ein Vorhängeschloss vorbereitet."
     },
     "14-Cabinet-Clothing": {
       "title": "Schuh- und Kleiderschrank",
+      "shortDescription": "Schrank aus Profilgitter und laminiertem Brett in der Farbe Goldene Eiche Craft.",
       "description": "Schrank aus Profilgitter und laminiertem Brett in der Farbe Goldene Eiche Craft."
     },
     "15-Armchair": {
       "title": "Industrieller Sessel",
+      "shortDescription": "Sessel mit einfacher, leichter Konstruktion und modernem Design. Ausgestattet mit dicken, fleckenabweisenden Kissen und einer pulverbeschichteten Konstruktion für Haltbarkeit und Komfort.",
       "description": "Sessel mit einfacher, leichter Konstruktion und modernem Design. Ausgestattet mit dicken, fleckenabweisenden Kissen und einer pulverbeschichteten Konstruktion für Haltbarkeit und Komfort."
+    },
+    "16-Table-Audio-Hi-Fi-54": {
+      "title": "Hi-Fi-Audiotisch 54",
+      "shortDescription": "Der Hi-Fi-Audiotisch 54 ist ein elegantes Möbelstück, das natürliches Eichenholz mit minimalistischem Design und Metalldetails verbindet – konzipiert für eine funktionale und stilvolle Aufbewahrung von Audiogeräten.",
+      "description": "Dieser Audiotisch vereint die natürliche Schönheit von Eichenholz mit modernem, minimalistischem Design. Die aus hochwertiger Eiche gefertigten Ablagen zeichnen sich durch eine markante Maserung, einen warmen Farbton und Langlebigkeit aus, wodurch das Möbelstück sowohl ästhetisch als auch robust ist.<br /><br />Die Basis bilden einzigartige Spikes, die die Ablagen tragen und dem Ganzen Leichtigkeit sowie eine visuelle Raffinesse verleihen. Die Spikes bestehen aus Metall in Gold oder Schwarz, was einen Kontrast zum natürlichen Holzton bildet und den modernen Charakter des Tisches unterstreicht.<br /><br />Der Tisch ist funktional gestaltet – er bietet eine stabile Fläche für Audiogeräte und ermöglicht dank seiner Konstruktion eine bessere Luftzirkulation rund um die Geräte, was für deren ordnungsgemäße Funktion wichtig ist.<br /><br />Durch die Kombination aus natürlichen Materialien und minimalistischer Form fügt sich der Tisch sowohl in moderne als auch in klassischere Innenräume ein und verleiht ihnen Eleganz und Raffinesse.<br /><br />Konstruktion: konisch zulaufende Beine, Profil 30x30 für die Beine und 30x20 für die Querstreben. Pulverbeschichtet in Mattschwarz. Goldene Spikes. Ablagen mit speziellem hartem Wachsöl behandelt.<br /><br />Maße:<br />Gesamtbreite: 54 cm<br />Tiefe: 44 cm<br />Höhe: 60 cm<br />Untere Ablagen: 47 cm breit, 40 cm tief<br />Fachhöhen: unten 13 cm, oben 18 cm<br /><br />Der identische Tisch kostet 1699 PLN zuzüglich 150 PLN Versandkosten."
     }
   },
   "footer": {

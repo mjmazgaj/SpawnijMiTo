@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from "react";
 import { useParams } from "react-router-dom";
-import { useTranslation } from "react-i18next";
+import { useTranslation, Trans } from "react-i18next";
 
 import "./details.css";
 
@@ -15,7 +15,7 @@ const Details = () => {
         const context = require.context(
           "../../assets/portfolio",
           true,
-          /Gallery\/.*\.jpg$/
+          /Gallery\/.*\.(jpe?g)$/
         );
 
         const allPaths = context
@@ -53,7 +53,7 @@ const Details = () => {
           <h3 className="details__desctiption-title">
             {t("portfolio.description")}
           </h3>
-          <p>{t(`portfolio.${folderId}.description`)}</p>
+          <Trans i18nKey={`portfolio.${folderId}.description`} />
         </div>
       </div>
       {images && images.length > 0 && (

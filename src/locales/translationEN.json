@@ -54,63 +54,83 @@
         "gallery": "Gallery",
         "01-Table-Hi_Fi": {
             "title": "Hi-fi Table",
+            "shortDescription": "Solid steel construction made of 40x40 and 40x30 steel profiles, powder-coated in matte black with a fine texture. Oak tops with a thickness of 30 mm, equipped with low spikes and gold-colored pads.",
             "description": "Solid steel construction made of 40x40 and 40x30 steel profiles, powder-coated in matte black with a fine texture. Oak tops with a thickness of 30 mm, equipped with low spikes and gold-colored pads."
         },
         "02-Table-XXL": {
             "title": "XXL TV Stand",
+            "shortDescription": "Tops made of oak wood, oiled in a clear color. Powder-coated construction in matte black with a fine texture. Black spikes with black pads.",
             "description": "Tops made of oak wood, oiled in a clear color. Powder-coated construction in matte black with a fine texture. Black spikes with black pads."
         },
         "03-Table-Hi_Fi-2": {
             "title": "Short Hi-fi Table",
+            "shortDescription": "Made of powder-coated steel and oak tops in natural color. The whole set is complemented by black spikes and black pads.",
             "description": "Made of powder-coated steel and oak tops in natural color. The whole set is complemented by black spikes and black pads."
         },
         "04-Audio": {
             "title": "Audio Equipment Rack",
+            "shortDescription": "Shelves made of oak wood, slightly oiled in a clear shade. Construction powder-coated in matte black with a fine texture. Black spikes with black pads.",
             "description": "Shelves made of oak wood, slightly oiled in a clear shade. Construction powder-coated in matte black with a fine texture. Black spikes with black pads."
         },
         "05-Spikes": {
             "title": "Anti-Vibration Spikes",
+            "shortDescription": "Our products utilize anti-vibration spikes, which reduce the transmission of vibrations between the surface and the devices.",
             "description": "Our products utilize anti-vibration spikes, which reduce the transmission of vibrations between the surface and the devices."
         },
         "06-Cabinet-TV": {
             "title": "Industrial TV Cabinet",
+            "shortDescription": "Cabinet made of nearly 50-year-old oak wood, covered with a layer of oil wax. Legs made of closed profile and expanded mesh, secured with clear lacquer.",
             "description": "Cabinet made of nearly 50-year-old oak wood, covered with a layer of oil wax. Legs made of closed profile and expanded mesh, secured with clear lacquer."
         },
         "07-Stands-Speaker": {
             "title": "Speaker Stands",
+            "shortDescription": "Stands with reinforced construction made of 40x30 profile powder-coated in matte black with a fine texture.",
             "description": "Stands with reinforced construction made of 40x30 profile powder-coated in matte black with a fine texture."
         },
         "08-Table-Audio": {
             "title": "Layered Audio Table",
+            "shortDescription": "Table made of 40x30 profile powder-coated in matte black. Shelves made of laminated board in matte black.",
             "description": "Table made of 40x30 profile powder-coated in matte black. Shelves made of laminated board in matte black."
         },
         "09-Stands": {
             "title": "Stands",
+            "shortDescription": "Stands made of 40x20 profile and 30 mm thick oak wood in cherry color.",
             "description": "Stands made of 40x20 profile and 30 mm thick oak wood in cherry color."
         },
         "10-Stands-Steel": {
             "title": "Steel Stands",
+            "shortDescription": "Stands made of 40x30 profile and 5 mm thick steel plate.",
             "description": "Stands made of 40x30 profile and 5 mm thick steel plate."
         },
         "11-Desk-Modern": {
             "title": "Modern Desk",
+            "shortDescription": "Steel frame made of 50x30 profile. Powder-coated in matte black with a fine texture. Top made of laminated board in Golden Oak Craft color.",
             "description": "Steel frame made of 50x30 profile. Powder-coated in matte black with a fine texture. Top made of laminated board in Golden Oak Craft color."
         },
         "12-Cabinet-TV": {
             "title": "Audio TV Cabinet",
+            "shortDescription": "This time, a cabinet for equipment combining black steel and tops made of laminated board in Golden Oak Craft color.",
             "description": "This time, a cabinet for equipment combining black steel and tops made of laminated board in Golden Oak Craft color."
         },
         "13-Cabinet-Bar": {
             "title": "Cabinet with Bar",
+            "shortDescription": "Entirely made of 30x30 profile and crimped mesh powder-coated in matte black. Fully filled with mesh and reinforced flooring. Doors open upwards on struts and prepared for a padlock.",
             "description": "Entirely made of 30x30 profile and crimped mesh powder-coated in matte black. Fully filled with mesh and reinforced flooring. Doors open upwards on struts and prepared for a padlock."
         },
         "14-Cabinet-Clothing": {
             "title": "Shoe and Clothing Cabinet",
+            "shortDescription": "Cabinet made of profile mesh and laminated board in Golden Oak Craft color.",
             "description": "Cabinet made of profile mesh and laminated board in Golden Oak Craft color."
         },
         "15-Armchair": {
             "title": "Industrial Armchair",
+            "shortDescription": "Armchair with a simple, lightweight construction and modern design. Equipped with thick, stain-resistant cushions and powder-coated construction for durability and comfort.",
             "description": "Armchair with a simple, lightweight construction and modern design. Equipped with thick, stain-resistant cushions and powder-coated construction for durability and comfort."
+        },
+        "16-Table-Audio-Hi-Fi-54": {
+            "title": "Hi-Fi Audio Table 54",
+            "shortDescription": "The Hi-Fi Audio Table 54 is an elegant piece of furniture that combines natural oak wood with minimalist design and metal details, designed for functional and stylish storage of audio equipment.",
+            "description": "This audio table combines the natural beauty of oak wood with a modern, minimalist design. The shelves, made of high-quality oak, feature a distinct grain, warm tone, and durability, making the piece both aesthetically pleasing and solid.<br /><br />The base is supported by unique spikes that hold the shelves, adding lightness and a striking visual effect. The spikes are made of metal in gold or black, creating a contrast with the natural wood tone and emphasizing the table's modern character.<br /><br />The table is designed with functionality in mind – it provides a stable surface for audio equipment while allowing for better air circulation around devices, which is important for their proper operation.<br /><br />Thanks to the combination of natural materials and minimalist form, the table fits perfectly in both modern and more classic interiors, adding elegance and sophistication.<br /><br />Construction: tapered legs, 30x30 profile for the legs, and 30x20 for the crossbars. Powder-coated in matte black. Gold spikes. Shelves finished with a special hard wax oil.<br /><br />Dimensions:<br />Total width: 54 cm<br />Depth: 44 cm<br />Height: 60 cm<br />Lower shelves: 47 cm wide, 40 cm deep<br />Shelf spacing: lower 13 cm, upper 18 cm<br /><br />The identical table costs 1699 PLN plus 150 PLN shipping."
         }
     },
     "footer": {

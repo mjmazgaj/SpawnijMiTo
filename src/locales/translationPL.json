@@ -54,63 +54,83 @@
         "gallery": "Galeria",
         "01-Table-Hi_Fi": {
             "title": "Stolik Hi-fi",
+            "shortDescription": "Solidna stalowa konstrukcja wykonana z profili stalowych 40x40 i 40x30, pomalowana proszkowo na matowy czarny kolor o drobnej strukturze. Blaty z dębu o grubości 30 mm, wyposażone w niskie kolce oraz podkładki w kolorze złota.",
             "description": "Solidna stalowa konstrukcja wykonana z profili stalowych 40x40 i 40x30, pomalowana proszkowo na matowy czarny kolor o drobnej strukturze. Blaty z dębu o grubości 30 mm, wyposażone w niskie kolce oraz podkładki w kolorze złota."
         },
         "02-Table-XXL": {
             "title": "Stolik Rtv XXL",
+            "shortDescription": "Blaty wykonane z drewna dębowego, olejowane na kolor bezbarwny. Konstrukcja malowana proszkowo, kolor czarny mat o drobnej strukturze. Kolce koloru czarnego z czarnymi podkładkami.",
             "description": "Blaty wykonane z drewna dębowego, olejowane na kolor bezbarwny. Konstrukcja malowana proszkowo, kolor czarny mat o drobnej strukturze. Kolce koloru czarnego z czarnymi podkładkami."
         },
         "03-Table-Hi_Fi-2": {
             "title": "Stolik Hi-fi krótki",
+            "shortDescription": "Wykonany z malowanej proszkowo stali oraz blatów dębowych w naturalnym kolorze. Całość uzupełniona o czarne kolce i czarne podkładki.",
             "description": "Wykonany z malowanej proszkowo stali oraz blatów dębowych w naturalnym kolorze. Całość uzupełniona o czarne kolce i czarne podkładki."
         },
         "04-Audio": {
             "title": "Regał pod sprzęt audio",
+            "shortDescription": "Wykonane z drewna dębowego blaty, delikatnie olejowane na bezbarwny odcień. Konstrukcja malowana proszkowo na matowy czarny kolor o drobnej strukturze. Kolce w kolorze czarnym z czarnymi podkładkami.",
             "description": "Wykonane z drewna dębowego blaty, delikatnie olejowane na bezbarwny odcień. Konstrukcja malowana proszkowo na matowy czarny kolor o drobnej strukturze. Kolce w kolorze czarnym z czarnymi podkładkami."
         },
         "05-Spikes": {
             "title": "Kolce antywibracyjne",
+            "shortDescription": "Przy tworzeniu naszych produktów wykorzystujemy kolce antywibracyjne, które redukują przenoszenie drgań pomiędzy podłożem a urządzeniami.",
             "description": "Przy tworzeniu naszych produktów wykorzystujemy kolce antywibracyjne, które redukują przenoszenie drgań pomiędzy podłożem a urządzeniami."
         },
         "06-Cabinet-TV": {
             "title": "Szafka Rtv w stylu industrialnym",
+            "shortDescription": "Szafka wykonana z prawie 50-letniego drewna dębowego, pokrytego warstwą olejowoskową. Nogi wykonane z profilu zamkniętego i siatki ciągnionej, zabezpieczone lakierem bezbarwnym.",
             "description": "Szafka wykonana z prawie 50-letniego drewna dębowego, pokrytego warstwą olejowoskową. Nogi wykonane z profilu zamkniętego i siatki ciągnionej, zabezpieczone lakierem bezbarwnym."
         },
         "07-Stands-Speaker": {
             "title": "Standy Podstawki głośnikowe",
+            "shortDescription": "Standy z wzmocnioną konstrukcją wykonane z profilu 40x30 malowane proszkowo czarny mat drobna struktura.",
             "description": "Standy z wzmocnioną konstrukcją wykonane z profilu 40x30 malowane proszkowo czarny mat drobna struktura."
         },
         "08-Table-Audio": {
             "title": "Stolik audio poziomowy",
+            "shortDescription": "Stolik wykonany z Profilu 40x30 malowanego proszkowo kolor czarny mat. Półki wykonane z płyty laminowanej w kolorze czarny mat.",
             "description": "Stolik wykonany z Profilu 40x30 malowanego proszkowo kolor czarny mat. Półki wykonane z płyty laminowanej w kolorze czarny mat."
         },
         "09-Stands": {
             "title": "Standy",
+            "shortDescription": "Standy wykonane z profilu 40x20 oraz drewna dębowego grubości 30 mm w kolorze wiśniowym.",
             "description": "Standy wykonane z profilu 40x20 oraz drewna dębowego grubości 30 mm w kolorze wiśniowym."
         },
         "10-Stands-Steel": {
             "title": "Standy Stalowe",
+            "shortDescription": "Standy wykonane z profilu 40x30 oraz blachy stalowej grubości 5 mm.",
             "description": "Standy wykonane z profilu 40x30 oraz blachy stalowej grubości 5 mm."
         },
         "11-Desk-Modern": {
             "title": "Biurko nowoczesne",
+            "shortDescription": "Rama stalowa wykonana z profilu 50x30. Malowana proszkowo na kolor czarny mat drobna struktura. Blat wykonany z płyty laminowanej w kolorze Złoty dąb Craft.",
             "description": "Rama stalowa wykonana z profilu 50x30. Malowana proszkowo na kolor czarny mat drobna struktura. Blat wykonany z płyty laminowanej w kolorze Złoty dąb Craft."
         },
         "12-Cabinet-TV": {
             "title": "Szafka Rtv audio",
+            "shortDescription": "Tym razem szafka na sprzęt w połączeniu czarnej stali i blatów z płyty laminowanej kolor Dąb złoty Craft.",
             "description": "Tym razem szafka na sprzęt w połączeniu czarnej stali i blatów z płyty laminowanej kolor Dąb złoty Craft."
         },
         "13-Cabinet-Bar": {
             "title": "Szafka z Barkiem",
+            "shortDescription": "Całość wykonana z profilu 30x30 i siatki karbowanej malowana proszkowo kolor czarny mat. W całości wypełniony siatką i wzmocnioną podłogą. Drzwiczki otwierane do góry na siłownikach i przygotowany uchwyt pod kłódkę.",
             "description": "Całość wykonana z profilu 30x30 i siatki karbowanej malowana proszkowo kolor czarny mat. W całości wypełniony siatką i wzmocnioną podłogą. Drzwiczki otwierane do góry na siłownikach i przygotowany uchwyt pod kłódkę."
         },
         "14-Cabinet-Clothing": {
             "title": "Szafka na buty i ubrania",
+            "shortDescription": "Szafka wykonana z profilu siatki oraz płyty laminowanej w kolorze Złoty Dąb Craft.",
             "description": "Szafka wykonana z profilu siatki oraz płyty laminowanej w kolorze Złoty Dąb Craft."
         },
         "15-Armchair": {
             "title": "Fotel industrialny",
+            "shortDescription": "Fotel o prostej, lekkiej konstrukcji i nowoczesnym designie. Posiada grube, plamoodporne poduchy oraz konstrukcję malowaną proszkowo, zapewniającą trwałość i wygodę.",
             "description": "Fotel o prostej, lekkiej konstrukcji i nowoczesnym designie. Posiada grube, plamoodporne poduchy oraz konstrukcję malowaną proszkowo, zapewniającą trwałość i wygodę."
+        },
+        "16-Table-Audio-Hi-Fi-54": {
+            "title": "Stolik audio Hi-Fi 54",
+            "shortDescription": "Stolik audio Hi-Fi 54 to elegancki mebel łączący naturalne drewno dębowe z minimalistycznym designem i metalowymi detalami, zaprojektowany z myślą o funkcjonalnym i stylowym przechowywaniu sprzętu audio.",
+            "description": "Ten stolik audio to połączenie naturalnego piękna drewna dębowego z nowoczesnym, minimalistycznym designem. Blaty wykonane z wysokiej jakości dębu charakteryzują się wyraźnym usłojeniem, ciepłym odcieniem i trwałością, co sprawia, że mebel jest nie tylko estetyczny, ale i solidny.<br /><br />Podstawę stanowią unikalne kolce, które podtrzymują blaty, nadając całości lekkości i wizualnego efektu. Kolce wykonane z metalu w kolorze złotym lub czarnym, co kontrastuje z naturalnym odcieniem drewna i podkreśla nowoczesny charakter stolika.<br /><br />Stolik jest zaprojektowany z myślą o funkcjonalności – zapewnia stabilną powierzchnię na sprzęt audio, a jednocześnie dzięki swojej konstrukcji pozwala na lepszą cyrkulację powietrza wokół urządzeń, co jest ważne dla ich prawidłowego funkcjonowania.<br /><br />Dzięki temu połączeniu naturalnych materiałów i minimalistycznej formy, stolik świetnie wpisze się zarówno w nowoczesne, jak i bardziej klasyczne wnętrza, dodając im elegancji i wyrafinowania.<br /><br />Konstrukcja: nogi zwężone, profil 30x30 jako nogi i 30x20 jako poprzeczki. Malowana proszkowo w kolorze czarny mat. Kolce złote. Blaty zabezpieczone specjalnym twardym olejowoskiem.<br /><br />Wymiary:<br />Szerokość całkowita: 54 cm<br />Głębokość: 44 cm<br />Wysokość: 60 cm<br />Blaty dolne: 47 cm szerokie, 40 cm głębokie<br />Przestrzenie o wysokościach: dolna 13 cm, górna 18 cm<br /><br />Identyczny stolik to koszt 1699 zł plus koszt wysyłki 150 zł."
         }
     },
     "footer": {
