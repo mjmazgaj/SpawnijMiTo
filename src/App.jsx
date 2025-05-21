@@ -1,6 +1,7 @@
 import Nav from "./components/nav/Nav";
 import Contact from "./components/contact/Contact";
 import Footer from "./components/footer/Footer";
+import Details from "./components/details/Details";
 
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import { I18nextProvider } from "react-i18next";
@@ -14,6 +15,7 @@ const App = () => {
         <Router>
           <Routes>
             <Route path="/" element={<Home />} />
+            <Route path="/gallery/:folderId" element={<Details />} />
           </Routes>
         </Router>
         <Nav />
