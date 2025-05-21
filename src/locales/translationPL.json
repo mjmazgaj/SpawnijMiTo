@@ -1,7 +1,7 @@
 {
-    "cta":{
-        "portfolio":"Realizacje",
-        "contact":"Kontakt"
+    "cta": {
+        "portfolio": "Realizacje",
+        "contact": "Kontakt"
     },
     "about": {
         "title": "SpawnijMiTo",
@@ -49,63 +49,66 @@
     "portfolio": {
         "portfolioTitle": "Realizacje",
         "portfolioSubTitle": "Obejrzyj nasze",
-        "item1": {
+        "checkDetailsText": "Dowiedz się więcej",
+        "description": "Opis",
+        "gallery": "Galeria",
+        "01-Table-Hi_Fi": {
             "title": "Stolik Hi-fi",
             "description": "Solidna stalowa konstrukcja wykonana z profili stalowych 40x40 i 40x30, pomalowana proszkowo na matowy czarny kolor o drobnej strukturze. Blaty z dębu o grubości 30 mm, wyposażone w niskie kolce oraz podkładki w kolorze złota."
         },
-        "item2": {
+        "02-Table-XXL": {
             "title": "Stolik Rtv XXL",
             "description": "Blaty wykonane z drewna dębowego, olejowane na kolor bezbarwny. Konstrukcja malowana proszkowo, kolor czarny mat o drobnej strukturze. Kolce koloru czarnego z czarnymi podkładkami."
         },
-        "item3": {
+        "03-Table-Hi_Fi-2": {
             "title": "Stolik Hi-fi krótki",
             "description": "Wykonany z malowanej proszkowo stali oraz blatów dębowych w naturalnym kolorze. Całość uzupełniona o czarne kolce i czarne podkładki."
         },
-        "item4": {
+        "04-Audio": {
             "title": "Regał pod sprzęt audio",
             "description": "Wykonane z drewna dębowego blaty, delikatnie olejowane na bezbarwny odcień. Konstrukcja malowana proszkowo na matowy czarny kolor o drobnej strukturze. Kolce w kolorze czarnym z czarnymi podkładkami."
         },
-        "item5": {
+        "05-Spikes": {
             "title": "Kolce antywibracyjne",
             "description": "Przy tworzeniu naszych produktów wykorzystujemy kolce antywibracyjne, które redukują przenoszenie drgań pomiędzy podłożem a urządzeniami."
         },
-        "item6": {
+        "06-Cabinet-TV": {
             "title": "Szafka Rtv w stylu industrialnym",
             "description": "Szafka wykonana z prawie 50-letniego drewna dębowego, pokrytego warstwą olejowoskową. Nogi wykonane z profilu zamkniętego i siatki ciągnionej, zabezpieczone lakierem bezbarwnym."
         },
-        "item7": {
+        "07-Stands-Speaker": {
             "title": "Standy Podstawki głośnikowe",
             "description": "Standy z wzmocnioną konstrukcją wykonane z profilu 40x30 malowane proszkowo czarny mat drobna struktura."
         },
-        "item8": {
+        "08-Table-Audio": {
             "title": "Stolik audio poziomowy",
             "description": "Stolik wykonany z Profilu 40x30 malowanego proszkowo kolor czarny mat. Półki wykonane z płyty laminowanej w kolorze czarny mat."
         },
-        "item9": {
+        "09-Stands": {
             "title": "Standy",
             "description": "Standy wykonane z profilu 40x20 oraz drewna dębowego grubości 30 mm w kolorze wiśniowym."
         },
-        "item10": {
+        "10-Stands-Steel": {
             "title": "Standy Stalowe",
             "description": "Standy wykonane z profilu 40x30 oraz blachy stalowej grubości 5 mm."
         },
-        "item11": {
+        "11-Desk-Modern": {
             "title": "Biurko nowoczesne",
             "description": "Rama stalowa wykonana z profilu 50x30. Malowana proszkowo na kolor czarny mat drobna struktura. Blat wykonany z płyty laminowanej w kolorze Złoty dąb Craft."
         },
-        "item12": {
+        "12-Cabinet-TV": {
             "title": "Szafka Rtv audio",
             "description": "Tym razem szafka na sprzęt w połączeniu czarnej stali i blatów z płyty laminowanej kolor Dąb złoty Craft."
         },
-        "item13": {
+        "13-Cabinet-Bar": {
             "title": "Szafka z Barkiem",
             "description": "Całość wykonana z profilu 30x30 i siatki karbowanej malowana proszkowo kolor czarny mat. W całości wypełniony siatką i wzmocnioną podłogą. Drzwiczki otwierane do góry na siłownikach i przygotowany uchwyt pod kłódkę."
         },
-        "item14": {
+        "14-Cabinet-Clothing": {
             "title": "Szafka na buty i ubrania",
             "description": "Szafka wykonana z profilu siatki oraz płyty laminowanej w kolorze Złoty Dąb Craft."
         },
-        "item15": {
+        "15-Armchair": {
             "title": "Fotel industrialny",
             "description": "Fotel o prostej, lekkiej konstrukcji i nowoczesnym designie. Posiada grube, plamoodporne poduchy oraz konstrukcję malowaną proszkowo, zapewniającą trwałość i wygodę."
         }
