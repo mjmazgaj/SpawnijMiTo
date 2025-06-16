@@ -19,7 +19,9 @@ const Experience = () => {
               </div>
               <div>
                 <h4>{t("services.project")}</h4>
-                <small className="text-light">{t("services.projectDescription")}</small>
+                <small className="text-light">
+                  {t("services.projectDescription")}
+                </small>
               </div>
             </div>
             <div className="experience__details">
@@ -28,7 +30,9 @@ const Experience = () => {
               </div>
               <div>
                 <h4>{t("services.tables")}</h4>
-                <small className="text-light">{t("services.tablesDescription")}</small>
+                <small className="text-light">
+                  {t("services.tablesDescription")}
+                </small>
               </div>
             </div>
             <div className="experience__details">
@@ -37,7 +41,9 @@ const Experience = () => {
               </div>
               <div>
                 <h4>{t("services.structure")}</h4>
-                <small className="text-light">{t("services.structureDescription")}</small>
+                <small className="text-light">
+                  {t("services.structureDescription")}
+                </small>
               </div>
             </div>
           </div>

@@ -13,8 +13,12 @@ const Header = () => {
 
       <div className="container header__container">
         <div className="header__logo">
-          <h1 className="header__logo-first-line">{t("header.logoFirstLine")}</h1>
-          <h1 className="header__logo-second-line">{t("header.logoSecondLine")}</h1>
+          <h1 className="header__logo-first-line">
+            {t("header.logoFirstLine")}
+          </h1>
+          <h1 className="header__logo-second-line">
+            {t("header.logoSecondLine")}
+          </h1>
         </div>
         <h5 className="text-light">{t("header.subtitle")}</h5>
       </div>

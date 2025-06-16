@@ -29,7 +29,9 @@ const Testimonials = () => {
                   <RxAvatar className="client__review-icon" />
                 </div>
                 <div className="client__review-text">
-                  <h4 className="client__review-name">{t("testimonials.clientName")}</h4>
+                  <h4 className="client__review-name">
+                    {t("testimonials.clientName")}
+                  </h4>
                   <p>{review}</p>
                 </div>
               </div>

@@ -35,7 +35,10 @@ const Contact = () => {
             <FaFacebookF className="contact__option-icon" />
             <h4>{t("contact.facebook")}</h4>
             <h5>{t("contact.facebookName")}</h5>
-            <a href="https://www.facebook.com/people/Spawnijmito/100094208785511/" target="_blank">
+            <a
+              href="https://www.facebook.com/people/Spawnijmito/100094208785511/"
+              target="_blank"
+            >
               {t("contact.facebookLink")}
             </a>
           </article>

@@ -11,6 +11,7 @@
 
 .details__desctiption-image {
   width: 30rem;
+  height: 100%;
 }
 
 .details__desctiption-text {
@@ -50,19 +51,19 @@
 }
 
 @media screen and (max-width: 600px) {
-  .details__desctiption-container{
+  .details__desctiption-container {
     flex-direction: column;
   }
 
-  .details__desctiption-image{
+  .details__desctiption-image {
     width: 100%;
   }
 
-  .details__desctiption-text{
+  .details__desctiption-text {
     margin: 1rem 0;
   }
 
-  .details__gallery-title{
+  .details__gallery-title {
     width: 100%;
   }
 }
