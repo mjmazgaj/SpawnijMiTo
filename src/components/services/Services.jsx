@@ -1,4 +1,4 @@
-import "./services.min.css";
+import "./services.css";
 import { BsPatchCheckFill } from "react-icons/bs";
 import { useTranslation } from "react-i18next";
 
