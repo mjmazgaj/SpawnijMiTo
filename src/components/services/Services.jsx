@@ -1,9 +1,17 @@
 import "./services.css";
 import { BsPatchCheckFill } from "react-icons/bs";
 import { useTranslation } from "react-i18next";
+import { useNavigate } from "react-router-dom";
+import { FaCircleRight } from "react-icons/fa6";
 
 const Experience = () => {
   const { t } = useTranslation();
+  const navigate = useNavigate();
+
+  const handleClick = () => {
+    window.scrollTo(0, 0);
+    navigate(`/Service/Details`);
+  };
 
   return (
     <section id="services">
@@ -45,6 +53,13 @@ const Experience = () => {
                   {t("services.structureDescription")}
                 </small>
               </div>
+            </div>
+            <div
+              className="services__item-details"
+              onClick={() => handleClick()}
+            >
+              <h4>{t("portfolio.checkDetailsText")}</h4>
+              <FaCircleRight size={20} />
             </div>
           </div>
         </div>
